@@ -1,0 +1,30 @@
+﻿Name,Description,ID
+Agile,Gain +10 agility,27c1b813fd8544cd844167b1d89d452a
+Angry,Does not like to be disturbed. If so they will attack.,04a8d02b0e584ee6ac722041011a2e4f
+Anxious,Gain +5 agility but -2 mind,5c97cecb50204ec89763f0ca878460e8
+Big,"While big you are about twice the size you are originally. You have +5 attack on creatures smaller than you, but -5 attack on creatures bigger than you ",5ff3cb740bc146f98c7fe5e57df486d2
+Brainy,Gain +10 mind,ae89d9a4f2e941b48db1fa0620ccacc7
+Cautious,Lose 2d6 when interacting with NPCs,5f7547dba6024806bdde946915d68991
+Egotistical,Lose -5 mind,cf373bed5163443896630929ee5db343
+Elderly,Lose -5 strength and -5 agility but gain +10 mind,be297f1c1d9e473f8f1c4a82e33b4f2d
+Epic,Gain +10 in all stats,25c7a82c820b4f47b80d36ff19971ecb
+Fast,Gain a +4 to speed.,6e1bce7ef4f645ddbea4e272ad8d014a
+Feeble,Lose -5 strength and -5 agility minimum 1 each.,0d9e0fa699104b4ca9c198479ec6c797
+Friendly ,Generally will not attack unless attacked first. If an enemy is friendly you can choose to not fight them but you gain no loot,117c7d22682d49dfb2a1eb2ed52a8219
+Greedy,Your mind is consumed until you get the object of your greed.,cf078d20c16f4787996d5011ad558dcc
+Hungry,Lose -5 on all stats and cannot roll a 1d6 on checks until you eat or stop being hungry.,f42f2198ef494980bf9bc5559a52320c
+Ignorant,Generally doesn’t know what’s going on around it.,258df54e5cb742f8adb9b87d26136de7
+Legendary,Gain +20 on all stats,04bc088d591b4a56a204af0a7d74b14f
+Macho,Gain +10 strength,8adcbea6128a4ca3833f41a9ef080b8d
+Normal,Nothing seems different that you can tell.,1f0d37ed412f4c6db795680284e53587
+Optimistic,Gain a +1d6 when interacting with NPCs,167f937465664adf80f4d3f3147dcbc6
+Pessimistic,Lose one action per turn minimum of 0 actions.,dbf8c5e15b3246958a5bdea2f4446c69
+Sensitive,Lose 1d6 when interacting with NPCs but gain 1d6 when attacking an enemy,88c3570b8ddf40d9b9eb0f5fb15409a6
+Serious,Gain +5 mind,21c5da472c9749d1843ba3c1cfc89824
+Shy,Lose 1d6 when interacting with NPCs,a9c4044070db4aa7960aee43e31a889d
+Slimy,Gains +6 to being grappled or put into a bag or shackled. ,52b816e2bd614377b4afaa74c86d72bb
+Slow,Slow creatures have a -3 to their speed with a minimum of 0.,4511d361756e4f2282f69a452dc2497c
+Small,"Target shrinks to about half their original size. While small you gain +5 attack on creatures bigger than you, but -5 attack for creatures smaller than you.",545a33581d9f4beeb7c66a2cca8189f9
+Strong,Gain +5 strength,37f2eed2a52645fc9ec676c13713f6e5
+Weak,Lose -5 to strength with a minimum of 5.,a86f3f063d564c2e8ebfa1079782748f
+Young,Gain +5 strength and +5 agility but -10 mind minimum 1,a93bd86c0f5648d9a0f8eb7ad2bac0dc

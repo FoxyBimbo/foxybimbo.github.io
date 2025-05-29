@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Echocondria Tools  - Map</title>
+  <!-- Bootstrap CSS (via CDN) -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <!-- DataTables CSS (via CDN) -->
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.22/css/jquery.dataTables.min.css">
+  <style>
+    /* Global settings */
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      user-select: none;
+    }
+    /* Main container using flex layout */
+    #mainContainer {
+      display: flex;
+      width: 100%;
+      height: 100vh;
+      box-sizing: border-box;
+    }
+    /* navbar fix for maps */
+    .navbar {
+      z-index: 999;
+    }
+    /* Left pane for controls (25% width) */
+    #leftPane {
+      width: 25%;
+      background-color: #f2f2f2;
+      padding: 20px;
+      box-sizing: border-box;
+      position: absolute;
+      left: 0;
+      top: 56px;
+      z-index: 99;
+      height: 100%;
+    }
+    /* Right pane for the map (70% width) */
+    #rightPane {
+      width: 70%;
+      padding: 20px;
+      box-sizing: border-box;
+      position: absolute;
+      z-index: 0;
+      right: 0;
+      top: 56px;
+      height: 100%;
+    }
+    /* Map container styling */
+    #mapContainer {
+      position: relative;
+      width: 6144px;
+      height: 6144px; /* Adjust as needed */
+      border: 1px solid #ccc;
+      overflow: hidden;
+      background-image: url('map.png'); /* Replace with your map image */
+      background-size: cover;
+      background-position: center;
+      transform-origin: top left;
+      cursor: grab;
+      transition: transform 0.1s ease-out;
+      transform: translate(-214px, -190px) scale(0.2);
+    }
+    /* Map pin styling */
+    .pin {
+      position: absolute;
+      width: 45px;
+      height: 45px;
+      border: 2px solid #fff;
+      border-radius: 50%;
+      cursor: pointer;
+      transform: translate(-50%, -100%);
+      box-shadow: 0 0 3px rgba(0,0,0,0.5);
+    }
+    .category-shop { background: red; }
+    .category-organization { background: blue; }
+    .category-landmark { background: green; }
+    /* Controls styling in the left pane */
+    #controls, #categoryToggles {
+      margin-bottom: 20px;
+      text-align: left;
+    }
+    #categoryToggles label {
+      display: block;
+      margin: 10px 0;
+    }
+    /* Tooltip for pin information */
+    #tooltip {
+      position: absolute;
+      background: rgba(0,0,0,0.75);
+      color: #fff;
+      padding: 4px 8px;
+      border-radius: 4px;
+      font-size: 12px;
+      pointer-events: none;
+      white-space: nowrap;
+      visibility: hidden;
+      z-index: 100;
+    }
+  </style>
+</head>
+<body>
+  
+  <!-- Navigation Bar -->
+  <div id="navbar"></div>
+  <script>
+    fetch('navbar.html')
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById('navbar').innerHTML = data;
+      })
+      .catch(error => console.error('Error loading navbar:', error));
+  </script>
+  
+  <div id="mainContainer">
+    <!-- Left pane: Controls -->
+    <div id="leftPane">
+      <div id="controls">
+        <button id="zoomIn">Zoom In</button>
+        <button id="zoomOut">Zoom Out</button>
+      </div>
+      <div id="categoryToggles">
+        <label>
+          <input type="checkbox" class="toggleCategory" data-category="shop" checked> Shops
+        </label>
+        <label>
+          <input type="checkbox" class="toggleCategory" data-category="organization" checked> Organizations
+        </label>
+        <label>
+          <input type="checkbox" class="toggleCategory" data-category="landmark" checked> Landmarks
+        </label>
+      </div>
+    </div>
+    <!-- Right pane: Map -->
+    <div id="rightPane">
+      <div id="mapContainer">
+        <!-- Sample pins with inline positioning (percentages) -->
+        <div class="pin category-shop" data-category="shop" data-description="shop A" style="top: 50%; left: 30%;"></div>
+        <div class="pin category-organization" data-category="organization" data-description="organization A" style="top: 70%; left: 60%;"></div>
+        <div class="pin category-landmark" data-category="landmark" data-description="City Castle" style="top: 7%; left: 7.5%;"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Tooltip element (placed outside panes to avoid clipping) -->
+  <div id="tooltip"></div>
+
+  <!-- jQuery (via CDN) -->
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <!-- Papa Parse (via CDN) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+  <!-- Bootstrap JS and its dependencies (via CDN) -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <!-- DataTables JS (via CDN) -->
+  <script type="text/javascript" src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js"></script>
+  <script type="text/javascript" src="scripts.js"></script>
+
+  <script>
+    (function() {
+      // Preload the map image for faster display
+      const preloadImage = new Image();
+      preloadImage.src = 'map.png'; // Update with the correct path if necessary
+
+      // Define transformation state for zooming and panning
+      let scale = 0.2;
+      let translateX = 0;
+      let translateY = 0;
+      
+      const mapContainer = document.getElementById('mapContainer');
+      const zoomInBtn = document.getElementById('zoomIn');
+      const zoomOutBtn = document.getElementById('zoomOut');
+      const tooltip = document.getElementById('tooltip');
+
+      // Update CSS transform for the map container
+      function updateTransform() {
+        mapContainer.style.transform = `translate(${translateX}px, ${translateY}px) scale(${scale})`;
+      }
+
+      // Zoom functions using buttons
+      zoomInBtn.addEventListener('click', function() {
+        scale += 0.1;
+        updateTransform();
+      });
+      zoomOutBtn.addEventListener('click', function() {
+        if (scale > 0.2) {
+          scale -= 0.1;
+          updateTransform();
+        }
+      });
+
+      // Zoom with mouse wheel
+      mapContainer.addEventListener('wheel', function(e) {
+        e.preventDefault();
+        const zoomFactor = 0.1;
+        if (e.deltaY < 0) {
+          scale += zoomFactor;
+        } else {
+          scale = Math.max(0.2, scale - zoomFactor);
+        }
+        updateTransform();
+      });
+
+      // Variables for panning
+      let isDragging = false;
+      let lastMouseX, lastMouseY;
+
+      // Start panning on mousedown
+      mapContainer.addEventListener('mousedown', function(e) {
+        isDragging = true;
+        lastMouseX = e.clientX;
+        lastMouseY = e.clientY;
+        mapContainer.style.cursor = 'grabbing';
+      });
+
+      // Update the translation on mousemove
+      document.addEventListener('mousemove', function(e) {
+        if (!isDragging) return;
+        const dx = e.clientX - lastMouseX;
+        const dy = e.clientY - lastMouseY;
+        lastMouseX = e.clientX;
+        lastMouseY = e.clientY;
+        translateX += dx;
+        translateY += dy;
+        updateTransform();
+      });
+
+      // End panning when mouse is released
+      document.addEventListener('mouseup', function() {
+        isDragging = false;
+        mapContainer.style.cursor = 'grab';
+      });
+
+      // Hide or show pins based on the category toggles
+      const toggleCheckboxes = document.querySelectorAll('.toggleCategory');
+      toggleCheckboxes.forEach(checkbox => {
+        checkbox.addEventListener('change', function() {
+          const category = this.getAttribute('data-category');
+          const pins = document.querySelectorAll(`.pin[data-category="${category}"]`);
+          pins.forEach(pin => {
+            pin.style.display = this.checked ? 'block' : 'none';
+          });
+        });
+      });
+
+      // Display tooltip on pin hover
+      const pins = document.querySelectorAll('.pin');
+      pins.forEach(pin => {
+        pin.addEventListener('mouseenter', function() {
+          const description = pin.getAttribute('data-description');
+          tooltip.textContent = description;
+          tooltip.style.visibility = 'visible';
+        });
+        pin.addEventListener('mouseleave', function() {
+          tooltip.style.visibility = 'hidden';
+        });
+        pin.addEventListener('mousemove', function(e) {
+          const offset = 10;
+          tooltip.style.left = (e.pageX + offset) + 'px';
+          tooltip.style.top = (e.pageY + offset) + 'px';
+        });
+      });
+
+      // Optional touch events for mobile panning
+      mapContainer.addEventListener('touchstart', function(e) {
+        if (e.touches.length === 1) {
+          isDragging = true;
+          lastMouseX = e.touches[0].clientX;
+          lastMouseY = e.touches[0].clientY;
+        }
+      });
+      mapContainer.addEventListener('touchmove', function(e) {
+        if (!isDragging) return;
+        const touch = e.touches[0];
+        const dx = touch.clientX - lastMouseX;
+        const dy = touch.clientY - lastMouseY;
+        lastMouseX = touch.clientX;
+        lastMouseY = touch.clientY;
+        translateX += dx;
+        translateY += dy;
+        updateTransform();
+      });
+      mapContainer.addEventListener('touchend', function() {
+        isDragging = false;
+      });
+    })();
+  </script>
+</body>
+</html>

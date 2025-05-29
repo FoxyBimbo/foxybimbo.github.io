@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CSV Randomizer with Nav Bar and Sorting</title>
+  <!-- Bootstrap CSS (via CDN) -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <!-- DataTables CSS (via CDN) -->
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.22/css/jquery.dataTables.min.css">
+</head>
+
+<body>
+
+  <!-- Navigation Bar -->
+  <div id="navbar"></div>
+  <script>
+    fetch('navbar.html')
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById('navbar').innerHTML = data;
+      })
+      .catch(error => console.error('Error loading navbar:', error));
+  </script>
+
+  <!-- Main Content Container -->
+  <div class="container mt-5">
+    <h1 class="mb-4 w-100">Mundane Items Randomizer</h1>
+
+    <!-- Button to trigger randomization -->
+
+    <div class="w-25 d-inline-block">
+      <label for="count" class="form-label">How many Items</label>
+      <input type="number" class="form-control" id="count" placeholder="How many Items" value="1">
+    </div>
+    <button id="randomizeButton" class="btn btn-primary mb-3 w-25 d-inline-block" style="margin-top:10px;">Get Random Items</button>
+
+
+    <!-- Container for the table -->
+    <div id="tableContainer"></div>
+  </div>
+
+  <!-- jQuery (via CDN) -->
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <!-- Papa Parse (via CDN) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+  <!-- Bootstrap JS and its dependencies (via CDN) -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <!-- DataTables JS (via CDN) -->
+  <script type="text/javascript" src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js"></script>
+  <script type="text/javascript" src="scripts.js"></script>
+
+  <script>
+    $(document).ready(function () {
+      $('#randomizeButton').click(function () {
+        // Use Papa Parse to fetch and parse the "NPCs_all.csv" file.
+        var count = $("#count").val();
+        parseFile("body-parts.csv", count);
+      });
+
+    });
+  </script>
+</body>
+
+</html>

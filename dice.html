@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Dice Roller</title>
+    <!-- Bootstrap CSS (via CDN) -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+
+<body>
+
+    <!-- Navigation Bar -->
+    <div id="navbar"></div>
+    <script>
+        fetch('navbar.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('navbar').innerHTML = data;
+            })
+            .catch(error => console.error('Error loading navbar:', error));
+    </script>
+
+    <!-- Main Content Container -->
+    <div class="container mt-5">
+        <h1 class="mb-4">Dice Roller</h1>
+        <p>Enter dice roll expressions separated by commas (e.g. <em>2d6, 4d12, 3d100</em>):</p>
+        <div class="form-group">
+            <input type="text" id="diceInput" class="form-control"
+                placeholder="Enter dice expressions, e.g. 2d6, 4d12, 3d100">
+        </div>
+        <button id="rollDiceButton" class="btn btn-primary">Roll Dice</button>
+
+        <!-- Results container -->
+        <div id="results" class="mt-4"></div>
+    </div>
+
+    <!-- jQuery (via CDN) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <!-- Bootstrap JS and its dependencies (via CDN) -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script>
+        /**
+        * Evaluates a composite dice expression.
+        * The expression may contain multiple parts separated by "+"
+        * where each part is either a dice roll specifier (e.g. "2d6") or a static number.
+        * Returns an object with the full breakdown and the total sum.
+        *
+        * Example:
+        *   Input: "4d4+2d6+5"
+        *   Output:
+        *   {
+        *     expression: "4d4+2d6+5",
+        *     breakdown: "4d4: [3, 1, 4, 2] = 10 + 2d6: [4, 6] = 10 + Constant: 5",
+        *     total: 25
+        *   }
+        *
+        * @param {string} expression - The dice expression string.
+        * @returns {object|null} - Returns an object with keys: expression, breakdown, total.
+        *                          Returns null if the input cannot be parsed.
+        */
+        function evaluateDiceExpression(expression) {
+            // Split the expression by the plus sign to support composite expressions.
+            var parts = expression.split("+");
+            var breakdownArray = [];
+            var totalSum = 0;
+
+            // Regular expression to recognize a dice term such as "NdX" (case-insensitive)
+            var diceRegex = /^(\d+)[dD](\d+)$/;
+
+            for (var i = 0; i < parts.length; i++) {
+                var part = parts[i].trim();
+                if (part === "") continue;
+
+                var diceMatch = part.match(diceRegex);
+                if (diceMatch) {
+                    // It's a dice roll term.
+                    var numDice = parseInt(diceMatch[1], 10);
+                    var diceSides = parseInt(diceMatch[2], 10);
+                    var rolls = [];
+                    for (var j = 0; j < numDice; j++) {
+                        // Generate a random integer between 1 and diceSides.
+                        rolls.push(Math.floor(Math.random() * diceSides) + 1);
+                    }
+                    var partSum = rolls.reduce(function (sum, value) { return sum + value; }, 0);
+                    totalSum += partSum;
+                    breakdownArray.push(numDice + "d" + diceSides + ": [" + rolls.join(", ") + "] = " + partSum);
+                } else {
+                    // Try parsing it as a static numeric value.
+                    var staticValue = parseInt(part, 10);
+                    if (!isNaN(staticValue)) {
+                        totalSum += staticValue;
+                        breakdownArray.push("Constant: " + staticValue);
+                    } else {
+                        // If the part is neither a dice expression nor a number, it's invalid.
+                        return null;
+                    }
+                }
+            }
+            return {
+                expression: expression,
+                breakdown: breakdownArray.join(" + "),
+                total: totalSum
+            };
+        }
+
+        /**
+         * Processes a comma-separated list of dice expressions.
+         * Each expression may be composite (for example, "4d4+2d6+5").
+         *
+         * @param {string} input - The entire input string from the text box.
+         * @returns {Array} - Returns an array of result objects.
+         */
+        function processInput(input) {
+            var expressions = input.split(",");
+            var resultsArray = [];
+
+            expressions.forEach(function (exp) {
+                var cleanExp = exp.trim();
+                if (cleanExp.length > 0) {
+                    var result = evaluateDiceExpression(cleanExp);
+                    if (result === null) {
+                        // If the expression is invalid, indicate an error.
+                        resultsArray.push({
+                            expression: cleanExp,
+                            breakdown: "Invalid input",
+                            total: ""
+                        });
+                    } else {
+                        resultsArray.push(result);
+                    }
+                }
+            });
+            return resultsArray;
+        }
+
+        // Attach the Roll Dice button event handler.
+        $(document).ready(function () {
+            $('#rollDiceButton').click(function () {
+                var inputVal = $('#diceInput').val();
+                var resultsArray = processInput(inputVal);
+
+                // Build the results table.
+                var tableHtml = '<table class="table table-bordered">';
+                tableHtml += '<thead><tr><th>Dice Expression</th><th>Breakdown</th><th>Total</th></tr></thead>';
+                tableHtml += '<tbody>';
+
+                resultsArray.forEach(function (result) {
+                    tableHtml += '<tr>';
+                    tableHtml += '<td>' + result.expression + '</td>';
+                    tableHtml += '<td>' + result.breakdown + '</td>';
+                    tableHtml += '<td>' + result.total + '</td>';
+                    tableHtml += '</tr>';
+                });
+
+                tableHtml += '</tbody></table>';
+
+                // Display the results.
+                $('#results').html(tableHtml);
+            });
+        });
+
+
+    </script>
+</body>
+
+</html>
