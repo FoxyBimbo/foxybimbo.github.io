@@ -31,37 +31,23 @@ function parseFile(file, count) {
     
 // Function to generate and display the table along with DataTables integration.
 function displayTable(rows, columns) {
-    var tableHtml = '<table id="csvTable" class="table table-striped table-bordered">';
-    tableHtml += '<thead><tr>';
-    // Create table headers.
-    columns.forEach(function(col) {
-        tableHtml += '<th>' + col + '</th>';
-    });
-    tableHtml += '</tr></thead>';
-    tableHtml += '<tbody>';
-
-    // Create table rows.
-    rows.forEach(function(row) {
-        tableHtml += '<tr>';
+    // Use a flexbox container for wrapping and mobile friendliness
+    var tableHtml = '<div id="csvFlexTable" style="display:flex;flex-direction:column;gap:12px;width:100%;">';
+    rows.forEach(function(row, rowIdx) {
+        // Alternate background color for every other entry
+        var bg = rowIdx % 2 === 0 ? '#f8f9fa' : '#e9ecef';
+        tableHtml += '<div class="csv-flex-row" style="display:flex;flex-wrap:wrap;background:' + bg + ';padding:10px;border-radius:8px;">';
         columns.forEach(function(col) {
-        tableHtml += '<td>' + row[col] + '</td>';
+            tableHtml += '<div style="flex:1 1 150px;min-width:120px;margin:4px 8px 4px 0;word-break:break-word;"><strong>' + col + ':</strong> ' + row[col] + '</div>';
         });
-        tableHtml += '</tr>';
+        tableHtml += '</div>';
     });
+    tableHtml += '</div>';
 
-    tableHtml += '</tbody></table>';
-
-    // If a DataTable instance already exists, destroy it first.
-    if ($.fn.DataTable.isDataTable('#csvTable')) {
+    // Remove any DataTable instance if present
+    if (window.jQuery && $.fn.DataTable && $.fn.DataTable.isDataTable('#csvTable')) {
         $('#csvTable').DataTable().destroy();
     }
+    // Render the flexbox table
     $('#tableContainer').html(tableHtml);
-
-    // Initialize DataTables to enable sorting and more.
-    $('#csvTable').DataTable({
-        paging: false,       // Disable pagination.
-        searching: false,    // Disable search box.
-        info: false,         // Disable additional info text.
-        order: []            // No initial ordering.
-    });
 }
