@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Echocondria Tools</title>
+  <title>Echocondria Tools - Quests</title>
   <!-- Bootstrap CSS (via CDN) -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <!-- DataTables CSS (via CDN) -->
@@ -26,7 +26,7 @@
 
   <!-- Main Content Container -->
   <div class="container mt-5">
-    <h1 class="mb-4 w-100">Mundane Items Randomizer</h1>
+    <h1 class="mb-4 w-100">Quest Randomizer</h1>
 
     <!-- Button to trigger randomization -->
 
@@ -56,7 +56,7 @@
       $('#randomizeButton').click(function () {
         // Use Papa Parse to fetch and parse the "NPCs_all.csv" file.
         var count = $("#count").val();
-        parseFile("fishing.csv", count);
+        parseFile("quests.csv", count);
       });
 
     });
