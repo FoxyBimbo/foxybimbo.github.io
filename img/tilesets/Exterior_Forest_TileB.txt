@@ -1,0 +1,256 @@
+﻿Transparent|透明
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree (Snow)|枯れ木（雪）
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree (Snow)|枯れ木（雪）
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree (Snow)|枯れ木（雪）
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree (Snow)|枯れ木（雪）
+Dead Tree (Snow)|枯れ木（雪）
+Dead Tree (Snow)|枯れ木（雪）
+Dead Tree (Snow)|枯れ木（雪）
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree (Snow)|枯れ木（雪）
+Dead Tree (Snow)|枯れ木（雪）
+Dead Tree (Snow)|枯れ木（雪）
+Dead Tree (Snow)|枯れ木（雪）
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Stairs (Down)|階段（下り）
+Stairs (Down)|階段（下り）
+Stairs (Down)|階段（下り）
+Stairs (Down)|階段（下り）
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Stairs (Up)|階段（上り）
+Stairs (Up)|階段（上り）
+Stairs (Up)|階段（上り）
+Stairs (Up)|階段（上り）
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Haystack|干し草
+Haystack|干し草
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Haystack|干し草
+Haystack|干し草
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Mat|マット
+Mat|マット
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Hay|干し草
+Tent|テント
+Tent|テント
+Tent|テント
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Hay|干し草
+Tent|テント
+Tent|テント
+Tent|テント
+Mat|マット
+Mat|マット
+Mat|マット
+Mat|マット
+Vessel|器
+Tent|テント
+Tent|テント
+Tent|テント
+Potted Plant|植木鉢
+Potted Plant (Withered )|植木鉢(枯れ)
+Tent (Ruins)|テント(廃墟)
+Tent (Ruins)|テント(廃墟)
+Tent (Ruins)|テント(廃墟)
+Tent (Snow)|テント(雪)
+Tent (Snow)|テント(雪)
+Tent (Snow)|テント(雪)
+Potted Plant|植木鉢
+Potted Plant (Withered )|植木鉢(枯れ)
+Tent (Ruins)|テント(廃墟)
+Tent (Ruins)|テント(廃墟)
+Tent (Ruins)|テント(廃墟)
+Tent (Snow)|テント(雪)
+Tent (Snow)|テント(雪)
+Tent (Snow)|テント(雪)
+NONE
+NONE
+Tent (Ruins)|テント(廃墟)
+Tent (Ruins)|テント(廃墟)
+Tent (Ruins)|テント(廃墟)
+Tent (Snow)|テント(雪)
+Tent (Snow)|テント(雪)
+Tent (Snow)|テント(雪)
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Tent (Chimney)|テント(煙突)
+Tent (Entrance)|テント(入口)
+NONE
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Tent (Chimney)|テント(煙突)
+Tent (Entrance)|テント(入口)
+NONE
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Tent (Window)|テント(窓)
+Tent (Window)|テント(窓)
+Tent (Window)|テント(窓)
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Tent|テント
+Tent (Window)|テント(窓)
+Tent (Window)|テント(窓)
+Tent (Window)|テント(窓)
+Tent (Snow)|テント（雪）
+Tent (Snow)|テント（雪）
+Tent (Snow)|テント（雪）
+Tent (Snow)|テント（雪）
+Tent (Snow)|テント（雪）
+Tent (Chimney, Snow)|テント(煙突・雪)
+Tent (Entrance, Snow)|テント(入口・雪)
+NONE
+Tent (Snow)|テント（雪）
+Tent (Snow)|テント（雪）
+Tent (Snow)|テント（雪）
+Tent (Snow)|テント（雪）
+Tent (Snow)|テント（雪）
+Tent (Chimney, Snow)|テント(煙突・雪)
+Tent (Entrance, Snow)|テント(入口・雪)
+NONE
+Tent (Snow)|テント（雪）
+Tent (Snow)|テント（雪）
+Tent (Snow)|テント（雪）
+Tent (Snow)|テント（雪）
+Tent (Snow)|テント（雪）
+Tent (Window, Snow)|テント(窓・雪)
+Tent (Window, Snow)|テント(窓・雪)
+Tent (Window, Snow)|テント(窓・雪)
+Tent (Snow)|テント（雪）
+Tent (Snow)|テント（雪）
+Tent (Snow)|テント（雪）
+Tent (Snow)|テント（雪）
+Tent (Snow)|テント（雪）
+Tent (Window, Snow)|テント(窓・雪)
+Tent (Window, Snow)|テント(窓・雪)
+Tent (Window, Snow)|テント(窓・雪)
+Tent (Ruins)|テント（廃墟）
+Tent (Ruins)|テント（廃墟）
+Tent (Ruins)|テント（廃墟）
+Tent (Ruins)|テント（廃墟）
+Tent (Ruins)|テント（廃墟）
+Tent (Chimney, Ruins)|テント(煙突・廃墟)
+Tent (Entrance, Ruins)|テント(入口・廃墟)
+NONE
+Tent (Ruins)|テント（廃墟）
+Tent (Ruins)|テント（廃墟）
+Tent (Ruins)|テント（廃墟）
+Tent (Ruins)|テント（廃墟）
+Tent (Ruins)|テント（廃墟）
+Tent (Chimney, Ruins)|テント(煙突・廃墟)
+Tent (Entrance, Ruins)|テント(入口・廃墟)
+NONE
+Tent (Ruins)|テント（廃墟）
+Tent (Ruins)|テント（廃墟）
+Tent (Ruins)|テント（廃墟）
+Tent (Ruins)|テント（廃墟）
+Tent (Ruins)|テント（廃墟）
+Tent (Window, Ruins)|テント(窓・廃墟)
+Tent (Window, Ruins)|テント(窓・廃墟)
+Tent (Window, Ruins)|テント(窓・廃墟)
+Tent (Ruins)|テント（廃墟）
+Tent (Ruins)|テント（廃墟）
+Tent (Ruins)|テント（廃墟）
+Tent (Ruins)|テント（廃墟）
+Tent (Ruins)|テント（廃墟）
+Tent (Window, Ruins)|テント(窓・廃墟)
+Tent (Window, Ruins)|テント(窓・廃墟)
+Tent (Window, Ruins)|テント(窓・廃墟)
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE

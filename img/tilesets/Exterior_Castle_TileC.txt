@@ -1,0 +1,256 @@
+﻿Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+NONE
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+NONE
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+NONE
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+Roof (Red Tile, Snow)|屋根（赤瓦・雪）
+NONE
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Snow)|屋上（雪）
+Rooftop (Snow)|屋上（雪）
+Rooftop (Snow)|屋上（雪）
+NONE
+NONE
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Snow)|屋上（雪）
+Rooftop (Snow)|屋上（雪）
+Rooftop (Snow)|屋上（雪）
+Rooftop (Snow)|屋上（雪）
+Rooftop (Snow)|屋上（雪）
+Wall (Stone)|壁(石)
+Wall (Stone)|壁(石)
+NONE
+Rooftop (Snow)|屋上（雪）
+Rooftop (Snow)|屋上（雪）
+Rooftop (Snow)|屋上（雪）
+Rooftop (Snow)|屋上（雪）
+Rooftop (Snow)|屋上（雪）
+Wall (Stone, Snow)|壁(石・雪)
+Wall (Stone, Snow)|壁(石・雪)
+NONE
+Rooftop (Green Stone)|屋上（緑石）
+Rooftop (Green Stone)|屋上（緑石）
+Rooftop (Green Stone)|屋上（緑石）
+Rooftop (Green Stone, Ruins)|屋上（緑石・廃墟）
+Rooftop (Green Stone, Ruins)|屋上（緑石・廃墟）
+Rooftop (Green Stone, Ruins)|屋上（緑石・廃墟）
+Rooftop (Green Stone)|屋上（緑石）
+Rooftop (Green Stone)|屋上（緑石）
+Rooftop (Green Stone)|屋上（緑石）
+Rooftop (Green Stone)|屋上（緑石）
+Rooftop (Green Stone)|屋上（緑石）
+Rooftop (Green Stone, Ruins)|屋上（緑石・廃墟）
+Rooftop (Green Stone, Ruins)|屋上（緑石・廃墟）
+Rooftop (Green Stone, Ruins)|屋上（緑石・廃墟）
+Rooftop (Green Stone)|屋上（緑石）
+Rooftop (Green Stone)|屋上（緑石）
+Rooftop (Green Stone)|屋上（緑石）
+Rooftop (Green Stone)|屋上（緑石）
+Rooftop (Green Stone)|屋上（緑石）
+Rooftop (Green Stone, Ruins)|屋上（緑石・廃墟）
+Rooftop (Green Stone, Ruins)|屋上（緑石・廃墟）
+Rooftop (Green Stone, Ruins)|屋上（緑石・廃墟）
+Rooftop (Green Stone, Ruins)|屋上（緑石・廃墟）
+Rooftop (Green Stone, Ruins)|屋上（緑石・廃墟）
+Rooftop (Green Stone, Snow)|屋上（緑石・雪）
+Rooftop (Green Stone, Snow)|屋上（緑石・雪）
+Rooftop (Green Stone, Snow)|屋上（緑石・雪）
+NONE
+Rooftop (Green Stone, Snow)|屋上（緑石・雪）
+Rooftop (Green Stone, Snow)|屋上（緑石・雪）
+Rooftop (Green Stone, Ruins)|屋上（緑石・廃墟）
+Rooftop (Green Stone, Ruins)|屋上（緑石・廃墟）
+Rooftop (Green Stone, Snow)|屋上（緑石・雪）
+Rooftop (Green Stone, Snow)|屋上（緑石・雪）
+Rooftop (Green Stone, Snow)|屋上（緑石・雪）
+NONE
+Rooftop (Green Stone, Snow)|屋上（緑石・雪）
+Rooftop (Green Stone, Snow)|屋上（緑石・雪）
+Wall (Green Stone)|壁（緑石）
+Wall (Green Stone)|壁（緑石）
+Rooftop (Green Stone, Snow)|屋上（緑石・雪）
+Rooftop (Green Stone, Snow)|屋上（緑石・雪）
+Rooftop (Green Stone, Snow)|屋上（緑石・雪）
+NONE
+Wall (Green Stone, Snow)|壁（緑石・雪）
+Wall (Green Stone, Snow)|壁（緑石・雪）
+Rooftop (Brick)|屋上（レンガ）
+Rooftop (Brick)|屋上（レンガ）
+Wall (Green Stone, Snow)|壁（緑石・雪）
+Wall (Green Stone)|壁（緑石）
+NONE
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick)|屋上（レンガ）
+Rooftop (Brick)|屋上（レンガ）
+Wall (Green Stone, Snow)|壁（緑石・雪）
+Wall (Green Stone)|壁（緑石）
+NONE
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick)|屋上（レンガ）
+Rooftop (Brick)|屋上（レンガ）
+Rooftop (Brick)|屋上（レンガ）
+Rooftop (Brick)|屋上（レンガ）
+Rooftop (Brick)|屋上（レンガ）
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick)|屋上（レンガ）
+Rooftop (Brick)|屋上（レンガ）
+Rooftop (Brick)|屋上（レンガ）
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick)|屋上（レンガ）
+Rooftop (Brick)|屋上（レンガ）
+Rooftop (Brick)|屋上（レンガ）
+NONE
+NONE
+NONE
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick, Ruins)|屋上（レンガ・廃墟）
+Rooftop (Brick)|屋上（レンガ）
+Rooftop (Brick)|屋上（レンガ）
+Rooftop (Brick)|屋上（レンガ）
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Wood Bridge|木製橋
+Wood Bridge  (Ruins)|木製橋(廃墟)
+Wood Bridge  (Ruins)|木製橋(廃墟)
+Wood Bridge  (Ruins)|木製橋(廃墟)
+Wood Bridge  (Ruins)|木製橋(廃墟)
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Rooftop (Brick, Snow)|屋上（レンガ・雪）
+Wood Bridge|木製橋
+Wood Bridge  (Ruins)|木製橋(廃墟)
+Wood Bridge  (Ruins)|木製橋(廃墟)
+Wood Bridge  (Ruins)|木製橋(廃墟)
+Wood Bridge  (Ruins)|木製橋(廃墟)
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge  (Ruins)|木製橋(廃墟)
+Wood Bridge  (Ruins)|木製橋(廃墟)
+Wood Bridge  (Ruins)|木製橋(廃墟)
+Wood Bridge  (Ruins)|木製橋(廃墟)
+Wood Bridge  (Ruins)|木製橋(廃墟)
+Wood Bridge  (Ruins)|木製橋(廃墟)
+Wood Bridge  (Ruins)|木製橋(廃墟)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)
+Wood Bridge (Snow)|木製橋(雪)

@@ -1,0 +1,256 @@
+﻿Transparent|透明
+Roof (Orange Tile)|屋根（橙タイル）
+NONE
+NONE
+Roof (Green Tile)|屋根（緑タイル）
+NONE
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Green Tile, Ruins)|屋根（緑タイル・廃墟）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Green Tile, Ruins)|屋根（緑タイル・廃墟）
+Roof (Green Tile, Ruins)|屋根（緑タイル・廃墟）
+Roof (Green Tile, Ruins)|屋根（緑タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Green Tile, Ruins)|屋根（緑タイル・廃墟）
+Roof (Green Tile, Ruins)|屋根（緑タイル・廃墟）
+Roof (Green Tile, Ruins)|屋根（緑タイル・廃墟）
+Rooftop|屋上
+Rooftop|屋上
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Green Tile, Ruins)|屋根（緑タイル・廃墟）
+Roof (Green Tile, Ruins)|屋根（緑タイル・廃墟）
+Roof (Green Tile, Ruins)|屋根（緑タイル・廃墟）
+Rooftop|屋上
+Rooftop|屋上
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Green Tile, Ruins)|屋根（緑タイル・廃墟）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Roof (Green Tile, Ruins)|屋根（緑タイル・廃墟）
+Rooftop|屋上
+Rooftop|屋上
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop|屋上
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop|屋上
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop|屋上
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop|屋上
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Rooftop (Ruins)|屋上（廃墟）
+NONE
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Green Tile)|屋根（緑タイル）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+NONE
+NONE
+Roof (Orange Tile)|屋根（橙タイル）
+NONE
+NONE
+NONE
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+NONE
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+NONE
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Wall (Stone)|壁（石）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Snow)|屋根（雪）
+NONE
+Roof (Snow)|屋根（雪）
+Roof (Orange Tile)|屋根（橙タイル）
+Wall (Stone)|壁（石）
+Wall (Stone)|壁（石）
+Wall (Stone)|壁（石）
+Roof (Orange Tile)|屋根（橙タイル）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+NONE
+NONE
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+NONE
+NONE
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+NONE
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+NONE
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Rooftop (Snow)|屋上（雪）
+Rooftop (Snow)|屋上（雪）
+NONE
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Rooftop (Snow)|屋上（雪）
+Rooftop (Snow)|屋上（雪）
+NONE
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Roof (Orange Tile, Ruins)|屋根（橙タイル・廃墟）
+Rooftop (Snow)|屋上（雪）
+Rooftop (Snow)|屋上（雪）
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Rooftop (Snow)|屋上（雪）
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE

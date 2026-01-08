@@ -1,0 +1,128 @@
+﻿Darkness|暗闇
+Ground (Grass)|床（草）
+Ground (Grass)|床（草）
+Ground (Gravel)|床（砂利）
+Ground (Stone)|床（石）
+Ground (Grass)|床（草）
+Hole (Grass)|穴（草）
+Hole (Desert)|穴（砂）
+Forest|森
+Ground (Grass)|床（草）
+Ground (Dirt)|床（土）
+Ground (Stone)|床（石）
+Ground (Stone, Ruins)|床（石・廃墟）
+Ground (Grass)|床（草）
+Hole (Grass)|穴（草）
+Hole (Dirt)|穴（土）
+Forest|森
+Ground (Grass)|床（草）
+Ground (Grass, Stone)|床（草・石）
+Ground (Desert)|床（砂）
+Stairs (Dirt)|階段（土）
+Stairs (Grass, Dirt)|階段（草・土）
+Stairs (Grass, Dirt)|階段（草・土）
+Stairs (Grass, Dirt)|階段（草・土）
+Forest|森
+Ground (Wood)|床（木製）
+Ground (Wood)|床（木製）
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Stairs (Grass, Dirt)|階段（草・土）
+Stairs (Grass, Dirt)|階段（草・土）
+Entrance|入口
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Stairs (Grass, Dirt)|階段（草・土）
+Stairs (Grass, Dirt)|階段（草・土）
+Entrance|入口
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Stairs (Grass, Dirt)|階段（草・土）
+Stairs (Grass, Dirt)|階段（草・土）
+Entrance|入口
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Stairs (Grass, Dirt)|階段（草・土）
+Stairs (Grass, Dirt)|階段（草・土）
+Entrance|入口
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Ledge (Desert)|段差（砂）
+Ledge (Desert)|段差（砂）
+Stairs (Desert)|階段（砂）
+Stairs (Desert)|階段（砂）
+Entrance|入口
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Ledge (Desert)|段差（砂）
+Ledge (Desert)|段差（砂）
+Stairs (Desert)|階段（砂）
+Stairs (Desert)|階段（砂）
+Entrance|入口
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Ledge (Grass)|段差（草）
+Ledge (Dirt)|段差（土）
+Ledge (Dirt)|段差（土）
+Stairs (Dirt)|階段（土）
+Stairs (Dirt)|階段（土）
+Hollow (Dirt)|窪み（土）
+Ledge (Desert)|段差（砂）
+Ledge (Desert)|段差（砂）
+Ledge (Desert)|段差（砂）
+Ledge (Dirt)|段差（土）
+Ledge (Dirt)|段差（土）
+Stairs (Dirt)|階段（土）
+Stairs (Dirt)|階段（土）
+Hollow (Dirt)|窪み（土）
+Ledge (Desert)|段差（砂）
+Ledge (Desert)|段差（砂）
+Ledge (Desert)|段差（砂）
+Hollow (Dirt)|窪み（土）
+Hollow (Dirt)|窪み（土）
+Hollow (Dirt)|窪み（土）
+Hollow (Dirt)|窪み（土）
+Hollow (Dirt)|窪み（土）
+Ledge (Desert)|段差（砂）
+Ledge (Desert)|段差（砂）
+Ledge (Desert)|段差（砂）
+Hollow (Dirt)|窪み（土）
+Hollow (Dirt)|窪み（土）
+Hollow (Dirt)|窪み（土）
+Ledge (Stone)|段差（石）
+Ledge (Stone)|段差（石）
+Ledge (Dirt)|段差（土）
+Ledge (Dirt)|段差（土）
+Ledge (Dirt)|段差（土）
+Hollow (Dirt)|窪み（土）
+Hollow (Dirt)|窪み（土）
+Hollow (Dirt)|窪み（土）
+Ledge (Stone)|段差（石）
+Ledge (Stone)|段差（石）
+Ledge (Dirt)|段差（土）
+Ledge (Dirt)|段差（土）
+Ledge (Dirt)|段差（土）
+Ledge (Stone)|段差（石）
+Ledge (Stone)|段差（石）
+Ledge (Stone)|段差（石）
+Stairs (Stone)|階段（石）
+Stairs (Stone)|階段（石）
+Ledge (Dirt)|段差（土）
+Ledge (Dirt)|段差（土）
+Ledge (Dirt)|段差（土）
+Ledge (Stone)|段差（石）
+Ledge (Stone)|段差（石）
+Ledge (Stone)|段差（石）
+Stairs (Stone)|階段（石）
+Stairs (Stone)|階段（石）

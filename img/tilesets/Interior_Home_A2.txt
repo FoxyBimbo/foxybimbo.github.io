@@ -1,0 +1,34 @@
+﻿Ground (Dirt)|床（土）
+Broken Tile Floor|壊れたタイルの床
+Ground (Brick)|床（レンガ）
+Ground (Blue Tile)|床（青タイル）
+Cobblestones|石畳
+Cobblestones (Meadow)|石畳（草地）
+Road Edging|縁石
+Table|テーブル
+Ground (Tile Floor)|床（タイルの床）
+Hole (Tile Floor)|穴（タイルの床）
+Ground (Wood Tile Floor)|床（木のタイルの床）
+Ground (Wood Tile Floor)|床（木のタイルの床）
+Cobblestones (Ruins)|石畳（廃墟）
+Cobblestones (Meadow)|石畳（草地）
+Road Edging (Ruins)|縁石（廃墟）
+Table (Ruins)|テーブル（廃墟）
+Ground (Wood Floor)|床（木の床）
+Hole (Wood Floor)|穴（木の床）
+Ground (Green Tile)|床（緑タイル）
+Ground (Green Tile)|床（緑タイル）
+Hole (Cobblestones)|穴（石畳）
+Rug|じゅうたん
+Rug|じゅうたん
+Table|テーブル
+Ground (Wood Floor)|床（木の床）
+Hole (Wood Floor)|穴（木の床）
+Ground (Wood Floor)|床（木の床）
+Cobblestones|石畳
+Rug|じゅうたん
+Rug|じゅうたん
+Rug|じゅうたん
+Table|テーブル
+
+

@@ -1,0 +1,256 @@
+﻿Transparent|透明
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Tapestry|タペストリー
+Tapestry (Ruins)|タペストリー（廃墟）
+Tapestry|タペストリー
+Window|窓
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Tapestry|タペストリー
+Tapestry (Ruins)|タペストリー（廃墟）
+Tapestry (Ruins)|タペストリー（廃墟）
+NONE
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Dragon Statue|竜像
+Dragon Statue|竜像
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Dragon Statue|竜像
+Dragon Statue|竜像
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Dragon Statue (Ruins)|竜像（廃墟）
+Dragon Statue (Ruins)|竜像（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Dragon Statue (Ruins)|竜像（廃墟）
+Dragon Statue (Ruins)|竜像（廃墟）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Dragon Statue (Snow)|竜像（雪）
+Dragon Statue (Snow)|竜像（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Dragon Statue (Snow)|竜像（雪）
+Dragon Statue (Snow)|竜像（雪）
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Stained Glass Window|ステンドグラス
+Stained Glass Window|ステンドグラス
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Stained Glass Window|ステンドグラス
+Stained Glass Window|ステンドグラス
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Stained Glass Window (Ruins)|ステンドグラス（廃墟）
+Stained Glass Window (Ruins)|ステンドグラス（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Stained Glass Window (Ruins)|ステンドグラス（廃墟）
+Stained Glass Window (Ruins)|ステンドグラス（廃墟）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Stained Glass Window (Snow)|ステンドグラス（雪）
+Stained Glass Window (Snow)|ステンドグラス（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Stained Glass Window (Snow)|ステンドグラス（雪）
+Stained Glass Window (Snow)|ステンドグラス（雪）
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Window|窓
+Window|窓
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Window|窓
+Window|窓
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Window (Ruins)|窓（廃墟）
+Window (Ruins)|窓（廃墟）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Window (Ruins)|窓（廃墟）
+Window (Ruins)|窓（廃墟）
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Window (Snow)|窓（雪）
+Window (Snow)|窓（雪）
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Window (Snow)|窓（雪）
+Window (Snow)|窓（雪）
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Window (Ruins)|窓（廃墟）
+Window (Snow)|窓（雪）
+NONE
+NONE
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Window (Ruins)|窓（廃墟）
+Window (Snow)|窓（雪）
+NONE
+NONE
+Window (Ruins)|窓（廃墟）
+Window (Ruins)|窓（廃墟）
+Window (Ruins)|窓（廃墟）
+Window|窓
+Window|窓
+NONE
+NONE
+NONE
+Window (Ruins)|窓（廃墟）
+Window (Ruins)|窓（廃墟）
+Window (Ruins)|窓（廃墟）
+Capital|柱頭
+Capital (Ruins)|柱頭（廃墟）
+Capital (Snow)|柱頭（雪）
+NONE
+NONE
+Window (Snow)|窓（雪）
+Window (Snow)|窓（雪）
+Window (Snow)|窓（雪）
+Statue|石像
+Statue (Ruins)|石像（廃墟）
+Statue (Snow)|石像（雪）
+NONE
+NONE
+Window (Snow)|窓（雪）
+Window (Snow)|窓（雪）
+Window (Snow)|窓（雪）
+Statue|石像
+Statue (Ruins)|石像（廃墟）
+Statue (Snow)|石像（雪）
+NONE
+NONE
+Window|窓
+Window|窓
+Window (Ruins)|窓（廃墟）
+Fence|柵
+Fence|柵
+Fence|柵
+NONE
+NONE
+Window|窓
+Window|窓
+Window (Ruins)|窓（廃墟）
+Fence|柵
+NONE
+Fence|柵
+NONE
+NONE
+Relief|レリーフ
+Relief (Ruins)|レリーフ（廃墟）
+Relief (Snow)|レリーフ（雪）
+Fence|柵
+NONE
+NONE
+NONE
+NONE
+Relief|レリーフ
+Relief (Ruins)|レリーフ（廃墟）
+Relief (Snow)|レリーフ（雪）
+Fence (Snow)|柵（雪）
+Fence (Snow)|柵（雪）
+Fence (Snow)|柵（雪）
+NONE
+NONE
+Relief|レリーフ
+Relief (Ruins)|レリーフ（廃墟）
+Relief (Snow)|レリーフ（雪）
+Fence (Snow)|柵（雪）
+NONE
+Fence (Snow)|柵（雪）
+NONE
+NONE
+NONE
+NONE
+NONE
+Fence (Snow)|柵（雪）
+NONE
+NONE
+NONE
+NONE

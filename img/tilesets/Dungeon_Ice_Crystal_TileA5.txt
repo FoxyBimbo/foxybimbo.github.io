@@ -1,0 +1,128 @@
+﻿Darkness|暗闇
+Ground (Ice Cave)|床（氷洞窟）
+Hole (Ice Cave)|穴（氷洞窟）
+Ledge (Ice Cave)|段差（氷洞窟）
+Ledge (Ice Cave)|段差（氷洞窟）
+Ledge (Ice Cave)|段差（氷洞窟）
+Ledge (Ice Cave)|段差（氷洞窟）
+Ledge (Ice Cave)|段差（氷洞窟）
+Entrance|入口
+Slope (Ice Cave)|坂（氷洞窟）
+Slope (Ice Cave)|坂（氷洞窟）
+Ledge (Ice Cave)|段差（氷洞窟）
+Ledge (Ice Cave)|段差（氷洞窟）
+Ledge (Ice Cave)|段差（氷洞窟）
+Hole (Ice Cave)|穴（氷洞窟）
+Ledge (Ice Cave)|段差（氷洞窟）
+Entrance|入口
+Slope (Ice Cave)|坂（氷洞窟）
+Slope (Ice Cave)|坂（氷洞窟）
+Slope (Ice Cave)|坂（氷洞窟）
+Slope (Ice Cave)|坂（氷洞窟）
+Ledge (Ice Cave)|段差（氷洞窟）
+Ledge (Ice Cave)|段差（氷洞窟）
+Ledge (Ice Cave)|段差（氷洞窟）
+Vertical Rail (Wood, Ice)|縦ハシゴ（木製・氷）
+Horizontal Rail (Wood, Ice)|横ハシゴ（木製・氷）
+Stairs (Stone, Ice)|階段（石・氷）
+Stairs (Stone, Ice)|階段（石・氷）
+Stairs (Stone, Ice)|階段（石・氷）
+Ledge (Stone, Ice)|段差（石・氷）
+Ledge (Stone, Ice)|段差（石・氷）
+Ledge (Stone, Ice)|段差（石・氷）
+Ground (Dirt Cave)|床（土洞窟）
+Stairs (Dirt, Ice)|階段（土・氷）
+Stairs (Stone, Ice)|階段（石・氷）
+Stairs (Stone, Ice)|階段（石・氷）
+Stairs (Stone, Ice)|階段（石・氷）
+Ledge (Stone, Ice)|段差（石・氷）
+Ground (Stone, Ice)|床（石・氷）
+Ledge (Stone, Ice)|段差（石・氷）
+Ground (Dirt Cave)|床（土洞窟）
+Stairs (Dirt, Snow)|階段（土・雪）
+Stairs (Dirt, Snow)|階段（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ledge (Stone, Ice)|段差（石・氷）
+Ledge (Stone, Ice)|段差（石・氷）
+Ledge (Stone, Ice)|段差（石・氷）
+Ground (Dirt Cave)|床（土洞窟）
+Stairs (Dirt, Snow)|階段（土・雪）
+Stairs (Dirt, Snow)|階段（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Hole (Ice Cave)|穴（氷洞窟）
+Hole (Ice Cave)|穴（氷洞窟）
+Hole (Ice Cave)|穴（氷洞窟）
+Ice Cliff Opening|氷崖穴
+Ice Cliff Opening|氷崖穴
+Ledge (Dirt, Snow)|段差（土・雪）
+Ground (Snow)|床（雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Hole (Ice Cave)|穴（氷洞窟）
+Hole (Ice Cave)|穴（氷洞窟）
+Hole (Ice Cave)|穴（氷洞窟）
+Ice Cliff Opening|氷崖穴
+Ice Cliff Opening|氷崖穴
+Ledge (Dirt, Snow)|段差（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Hole (Ice Cave)|穴（氷洞窟）
+Hole (Ice Cave)|穴（氷洞窟）
+Hole (Ice Cave)|穴（氷洞窟）
+Ice Cliff Opening|氷崖穴
+Ice Cliff Opening|氷崖穴
+Entrance|入口
+Space|宇宙
+Space|宇宙
+Hole (Ice Cave)|穴（氷洞窟）
+Hole (Ice Cave)|穴（氷洞窟）
+Hole (Ice Cave)|穴（氷洞窟）
+Ice Cliff Opening|氷崖穴
+Ice Cliff Opening|氷崖穴
+Entrance|入口
+Space|宇宙
+Space|宇宙
+Hole (Ice Cave)|穴（氷洞窟）
+Hole (Ice Cave)|穴（氷洞窟）
+Hole (Ice Cave)|穴（氷洞窟）
+Ice Cliff Opening|氷崖穴
+Ice Cliff Opening|氷崖穴
+Translucent Floor|半透明の床
+Translucent Floor|半透明の床
+Translucent Floor|半透明の床
+Hole (Ice Cave)|穴（氷洞窟）
+Hole (Ice Cave)|穴（氷洞窟）
+Hole (Ice Cave)|穴（氷洞窟）
+Ice Cliff Opening|氷崖穴
+Ice Cliff Opening|氷崖穴
+Stairs (Crystal Cave)|階段（水晶洞窟）
+Stairs (Crystal Cave)|階段（水晶洞窟）
+Stairs (Crystal Cave)|階段（水晶洞窟）
+Ledge (Crystal Cave)|段差（水晶洞窟）
+Ledge (Crystal Cave)|段差（水晶洞窟）
+Ledge (Crystal Cave)|段差（水晶洞窟）
+Ledge (Crystal Cave)|段差（水晶洞窟）
+Ledge (Crystal Cave)|段差（水晶洞窟）
+Stairs (Crystal Cave)|階段（水晶洞窟）
+Stairs (Crystal Cave)|階段（水晶洞窟）
+Stairs (Crystal Cave)|階段（水晶洞窟）
+Ledge (Crystal Cave)|段差（水晶洞窟）
+Ground (Crystal)|床（水晶）
+Ledge (Crystal Cave)|段差（水晶洞窟）
+Ledge (Crystal Cave)|段差（水晶洞窟）
+Ledge (Crystal Cave)|段差（水晶洞窟）
+Ground (Green Stone)|床（緑石）
+Ground (Wood)|床（木製）
+Ground (Wood)|床（木製）
+Ledge (Crystal Cave)|段差（水晶洞窟）
+Ledge (Crystal Cave)|段差（水晶洞窟）
+Ledge (Crystal Cave)|段差（水晶洞窟）
+Ground (Crystal)|床（水晶）
+Ground (Grass)|床（草）
+Hole (Dirt Cave)|穴（土洞窟）
+Ground (Dirt Cave)|床（土洞窟）
+Ground (Dirt Cave)|床（土洞窟）

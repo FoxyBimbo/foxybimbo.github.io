@@ -1,0 +1,258 @@
+﻿Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Rug (Ruins)|絨毯（廃墟）
+Wall (Tent)|壁（テント）
+Wall (Tent)|壁（テント）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Rope|ロープ
+Rope Ladder|縄ばしご
+Metal Ladder|鉄ばしご
+Wood Ladder|木製ばしご
+Wall (Tent)|壁（テント）
+Wall (Tent)|壁（テント）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Rope|ロープ
+Rope Ladder|縄ばしご
+Metal Ladder|鉄ばしご
+Wood Ladder|木製ばしご
+Wall (Tent)|壁（テント）
+Wall (Tent)|壁（テント）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Rope|ロープ
+Rope Ladder|縄ばしご
+Metal Ladder|鉄ばしご
+Wood Ladder|木製ばしご
+Wall (Tent)|壁（テント）
+Wall (Tent)|壁（テント）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+NONE
+NONE
+NONE
+NONE
+Wall (Tent)|壁（テント）
+Wall (Tent)|壁（テント）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+NONE
+NONE
+NONE
+NONE
+Wall (Tent)|壁（テント）
+Wall (Tent)|壁（テント）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+
+

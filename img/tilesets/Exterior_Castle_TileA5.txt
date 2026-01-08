@@ -1,0 +1,128 @@
+﻿Darkness|暗闇
+Transparent|透明
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Ledge (Stone)|段差（石）
+Ledge (Stone)|段差（石）
+Ledge (Stone)|段差（石）
+Ground (Stone)|床（石）
+Ground (Stone)|床（石）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Ledge (Stone)|段差（石）
+Rooftop (Stone)|屋上（石）
+Ledge (Stone)|段差（石）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Ledge (Stone)|段差（石）
+Ledge (Stone)|段差（石）
+Ledge (Stone)|段差（石）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone)|屋上（石）
+Rooftop (Stone, Ruins)|屋上（石・廃墟）
+Rooftop (Stone, Ruins)|屋上（石・廃墟）
+Rooftop (Stone, Ruins)|屋上（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Rooftop (Stone, Ruins)|屋上（石・廃墟）
+Rooftop (Stone, Ruins)|屋上（石・廃墟）
+Rooftop (Stone, Ruins)|屋上（石・廃墟）
+Rooftop (Stone, Ruins)|屋上（石・廃墟）
+Rooftop (Stone, Ruins)|屋上（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Rooftop (Stone, Ruins)|屋上（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Rooftop (Stone, Ruins)|屋上（石・廃墟）
+Rooftop (Stone, Ruins)|屋上（石・廃墟）
+Rooftop (Stone, Ruins)|屋上（石・廃墟）
+Rooftop (Stone, Ruins)|屋上（石・廃墟）
+Rooftop (Stone, Ruins)|屋上（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Rooftop (Stone, Snow)|屋上（石・雪）
+Rooftop (Stone, Snow)|屋上（石・雪）
+Rooftop (Stone, Snow)|屋上（石・雪）
+Rooftop (Stone, Snow)|屋上（石・雪）
+Rooftop (Stone, Snow)|屋上（石・雪）
+Wall (Stone)|壁（石）
+Wall (Stone)|壁（石）
+Wall (Stone)|壁（石）
+Rooftop (Stone, Snow)|屋上（石・雪）
+Rooftop (Stone, Snow)|屋上（石・雪）
+Rooftop (Stone, Snow)|屋上（石・雪）
+Rooftop (Stone, Snow)|屋上（石・雪）
+Rooftop (Stone, Snow)|屋上（石・雪）
+Wall (Stone)|壁（石）
+Wall (Stone)|壁（石）
+Wall (Stone)|壁（石）
+Stairs (Stone)|階段（石）
+Stairs (Stone)|階段（石）
+Rooftop (Stone, Snow)|屋上（石・雪）
+Rooftop (Stone, Snow)|屋上（石・雪）
+Rooftop (Stone, Snow)|屋上（石・雪）
+Wall (Stone)|壁（石）
+Wall (Stone)|壁（石）
+Wall (Stone)|壁（石）
+Stairs (Stone)|階段（石）
+Stairs (Stone)|階段（石）
+Wall (Brick)|壁（レンガ）
+Wall (Brick)|壁（レンガ）
+Wall (Brick)|壁（レンガ）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Stairs (Stone)|階段（石）
+Stairs (Stone)|階段（石）
+Wall (Brick)|壁（レンガ）
+Wall (Brick)|壁（レンガ）
+Wall (Brick)|壁（レンガ）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Stairs (Stone, Ice)|階段（石・氷）
+Stairs (Stone, Ice)|階段（石・氷）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Snow)|壁（レンガ・雪）
+Wall (Brick, Snow)|壁（レンガ・雪）
+Wall (Brick, Snow)|壁（レンガ・雪）
+Stairs (Stone, Ice)|階段（石・氷）
+Stairs (Stone, Ice)|階段（石・氷）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Snow)|壁（レンガ・雪）
+Wall (Brick, Snow)|壁（レンガ・雪）
+Wall (Brick, Snow)|壁（レンガ・雪）
+Stairs (Stone, Ice)|階段（石・氷）
+Stairs (Stone, Ice)|階段（石・氷）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Wall (Green Stone, Ruins)|壁（緑石・廃墟）
+Wall (Green Stone, Ruins)|壁（緑石・廃墟）
+Wall (Green Stone, Ruins)|壁（緑石・廃墟）
+Ledge (Stone, Ice)|段差（石・氷）
+Ledge (Stone, Ice)|段差（石・氷）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Wall (Green Stone, Ruins)|壁（緑石・廃墟）
+Wall (Green Stone, Ruins)|壁（緑石・廃墟）
+Wall (Green Stone, Ruins)|壁（緑石・廃墟）
+Ledge (Stone, Ice)|段差（石・氷）
+Ledge (Stone, Ice)|段差（石・氷）
+Ledge (Stone, Ice)|段差（石・氷）
+Ledge (Stone, Ice)|段差（石・氷）
+Ledge (Stone, Ice)|段差（石・氷）
+Ledge (Stone, Ice)|段差（石・氷）
+Ground (Stone, Ice)|床（石・氷）
+Ground (Snow)|床（雪）

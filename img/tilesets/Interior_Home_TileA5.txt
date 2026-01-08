@@ -1,0 +1,128 @@
+﻿Darkness|暗闇
+Ground (Wood)|床（木製）
+Ground (Wood, Shadow)|床（木製・影）
+Ground (Wood, Shadow)|床（木製・影）
+Ground (Wood, Light)|床（木製・光）
+Ground (Wood, Light)|床（木製・光）
+Ground (Wood)|床（木製）
+Ground (Wood, Ruins)|床（木製・廃墟）
+NONE
+Ground (Dirt)|床（土）
+Ground (Dirt, Shadow)|床（土・影）
+Ground (Dirt, Shadow)|床（土・影）
+Ground (Dirt, Light)|床（土・光）
+Ground (Wood, Ruins)|床（木製・廃墟）
+Ground (Wood, Ruins)|床（木製・廃墟）
+Ground (Wood, Ruins)|床（木製・廃墟）
+Ground (Brown Wood)|床（木製茶）
+Ground (Brown Wood)|床（木製茶）
+Ground (Brown Wood, Light)|床（木製茶・光）
+Ground (Brown Wood, Ruins)|床（木製茶・廃墟）
+Ground (Brown Wood, Ruins)|床（木製茶・廃墟）
+Ground (Brown Wood, Ruins)|床（木製茶・廃墟）
+Ground (Brown Wood, Ruins)|床（木製茶・廃墟）
+Ground (Wood)|床（木製）
+Ground (Stone)|床（石）
+Ground (Stone, Shadow)|床（石・影）
+Ground (Stone, Shadow)|床（石・影）
+Ground (Stone, Light)|床（石・光）
+Ground (Stone, Ruins)|床（石・廃墟）
+Ground (Stone, Ruins)|床（石・廃墟）
+Wall (Wood)|壁（木製）
+Wall (Wood)|壁（木製）
+Ground (Tile)|床（タイル）
+Ground (Tile, Shadow)|床（タイル・影）
+Ground (Tile, Shadow)|床（タイル・影）
+Ground (Tile, Light)|床（タイル・光）
+Ground (Tile, Light)|床（タイル・光）
+Ground (Tile)|床（タイル）
+Wall (Wood, Ruins)|壁（木製・廃墟）
+Wall (Wood, Ruins)|壁（木製・廃墟）
+Wall (Wood, Ruins)|壁（木製・廃墟）
+Wall (Wood, Ruins)|壁（木製・廃墟）
+Wall (Wood, Ruins)|壁（木製・廃墟）
+Wall (Wood, Ruins)|壁（木製・廃墟）
+Wall (Wood, Ruins)|壁（木製・廃墟）
+Wall (Wood, Ruins)|壁（木製・廃墟）
+Wall (Wood, Ruins)|壁（木製・廃墟）
+Wall (Stone, Wood Line)|壁（石・木製柱）
+Wall (Wood, Ruins)|壁（木製・廃墟）
+Wall (Wood, Ruins)|壁（木製・廃墟）
+Wall (Wood, Ruins)|壁（木製・廃墟）
+Wall (Wood, Ruins)|壁（木製・廃墟）
+Wall (Wood, Ruins)|壁（木製・廃墟）
+Wall (Wood, Ruins)|壁（木製・廃墟）
+Wall (Wood, Ruins)|壁（木製・廃墟）
+Wall (Stone, Wood Line)|壁（石・木製柱）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Stone, Pipe)|壁（石・管）
+Wall (Stone)|壁（石）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Stone, Pipe, Ruins)|壁（石・管・廃墟）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Wall (Stone, Ruins)|壁（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Table|テーブル
+Table|テーブル
+Table|テーブル
+Table|テーブル
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Table|テーブル
+Table|テーブル
+Table|テーブル
+Table|テーブル
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Ledge (Stone, Ruins)|段差（石・廃墟）
+Table|テーブル
+Table|テーブル
+Table|テーブル
+Stairs (Stone)|階段（石）
+Stairs (Stone)|階段（石）
+Stairs (Stone)|階段（石）
+Ground (Brick)|床（レンガ）
+Ground (Brick, Ruins)|床（レンガ・廃墟）

@@ -1,0 +1,130 @@
+﻿Darkness|暗闇
+Transparent|透明
+Wall (Tent)|壁（テント）
+Wall (Tent)|壁（テント）
+Wall (Tent)|壁（テント）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Ground (Wood)|床（木製）
+Ground (Wood, Light)|床（木製・光）
+Wall (Tent)|壁（テント）
+Wall (Tent)|壁（テント）
+Wall (Tent)|壁（テント）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Ground (Wood, Light)|床（木製・光）
+Ground (Wood)|床（木製）
+Ground (Tent, Dirt)|壁（テント・土）
+Ground (Tent, Dirt)|壁（テント・土）
+Ground (Tent, Dirt)|壁（テント・土）
+Ground (Tent, Dirt)|壁（テント・土）
+Ground (Tent, Dirt)|壁（テント・土）
+Ground (Tent, Dirt)|壁（テント・土）
+Ground (Wood, Ruins)|床（木製・廃墟）
+Ground (Wood, Ruins)|床（木製・廃墟）
+Ground (Tent, Dirt)|壁（テント・土）
+Ground (Tent, Dirt)|壁（テント・土）
+Ground (Tent, Dirt)|壁（テント・土）
+Ground (Tent, Dirt)|壁（テント・土）
+Ground (Tent, Dirt)|壁（テント・土）
+Ground (Tent, Dirt)|壁（テント・土）
+Ground (Wood, Ruins)|床（木製・廃墟）
+Ground (Wood, Ruins)|床（木製・廃墟）
+Ground (Tent, Dirt)|壁（テント・土）
+Ground (Tent, Dirt)|壁（テント・土）
+Ground (Tent, Dirt)|壁（テント・土）
+Ground (Tent, Dirt)|壁（テント・土）
+Ground (Tent, Dirt)|壁（テント・土）
+Ground (Tent, Dirt)|壁（テント・土）
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Ground (Dirt)|床（土）
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Ground (Dirt, Light)|床（土・光）
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Ground (Tile)|床（タイル）
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Cave Room Set|穴部屋セット
+Ground (Tile)|床（タイル）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Wall (Tent, Ruins)|壁（テント・廃墟）
+Ground (Brown Wood)|床（木製茶）
+Ground (Brown Wood)|床（木製茶）
+Ground (Brown Wood, Ruins)|床（木製茶・廃墟）
+Ground (Brown Wood, Ruins)|床（木製茶・廃墟）
+Ground (Brown Wood, Ruins)|床（木製茶・廃墟）
+Ground (Brown Wood, Ruins)|床（木製茶・廃墟）
+Ground (Wood Tile)|床（木製タイル）
+Ground (Wood Tile)|床（木製タイル）
+
+

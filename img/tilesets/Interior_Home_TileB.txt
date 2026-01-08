@@ -1,0 +1,256 @@
+﻿Transparent|透明
+Stairs (Down)|階段（下り）
+Stairs (Down)|階段（下り）
+Stairs (Down)|階段（下り）
+Stairs (Down)|階段（下り）
+Tapestry|タペストリー
+Curtains|カーテン
+Curtains (Ruins)|カーテン(廃墟)
+NONE
+Stairs (Up)|階段（上り）
+Stairs (Up)|階段（上り）
+Stairs (Up)|階段（上り）
+Stairs (Up)|階段（上り）
+Tapestry|タペストリー
+Curtains|カーテン
+Curtains (Ruins)|カーテン(廃墟)
+Wood Stairs|木製階段
+Wood Stairs|木製階段
+Wood Stairs|木製階段
+Railings (Wood)|段差用手すり（木製）
+Railings (Wood)|段差用手すり（木製）
+Railings (Wood)|段差用手すり（木製）
+Curtains|カーテン
+Curtains|カーテン
+Wood Stairs|木製階段
+Wood Stairs|木製階段
+Wood Stairs|木製階段
+Railings (Wood, Ruins)|段差用手すり（木製・廃墟）
+Railings (Wood, Ruins)|段差用手すり（木製・廃墟）
+Railings (Wood, Ruins)|段差用手すり（木製・廃墟）
+Curtains|カーテン
+Curtains|カーテン
+Wood Stairs|木製階段
+Wood Stairs|木製階段
+Wood Stairs|木製階段
+Railings (Wood)|段差用手すり（木製）
+Railings (Wood)|段差用手すり（木製）
+Railings (Wood)|段差用手すり（木製）
+Curtains (Ruins)|カーテン(廃墟)
+Curtains (Ruins)|カーテン(廃墟)
+Wood Stairs (Ruins)|木製階段(廃墟)
+Wood Stairs (Ruins)|木製階段(廃墟)
+Wood Stairs (Ruins)|木製階段(廃墟)
+Railings (Wood, Ruins)|段差用手すり（木製・廃墟）
+Railings (Wood, Ruins)|段差用手すり（木製・廃墟）
+Railings (Wood, Ruins)|段差用手すり（木製・廃墟）
+Curtains (Ruins)|カーテン(廃墟)
+Curtains (Ruins)|カーテン(廃墟)
+Wood Stairs (Ruins)|木製階段(廃墟)
+Wood Stairs (Ruins)|木製階段(廃墟)
+Wood Stairs (Ruins)|木製階段(廃墟)
+Entrance|入口
+Light|明かり
+Cross|十字架
+Window|窓
+Window|窓
+Wood Stairs (Ruins)|木製階段(廃墟)
+Wood Stairs (Ruins)|木製階段(廃墟)
+Wood Stairs (Ruins)|木製階段(廃墟)
+Entrance|入口
+Light|明かり
+Cross|十字架
+Window|窓
+Window|窓
+Wood Stairs|木製階段
+Wood Stairs|木製階段
+Wood Stairs|木製階段
+Window|窓
+Window|窓
+Window|窓
+Stained Glass Window|ステンドグラス
+Stained Glass Window|ステンドグラス
+Wood Stairs|木製階段
+Wood Stairs|木製階段
+Wood Stairs|木製階段
+Window|窓
+Window|窓
+Window|窓
+Stained Glass Window|ステンドグラス
+Stained Glass Window|ステンドグラス
+Wood Stairs|木製階段
+Wood Stairs|木製階段
+Wood Stairs|木製階段
+Window (Ruins)|窓(廃墟)
+Window (Ruins)|窓(廃墟)
+Window (Ruins)|窓(廃墟)
+Stained Glass Window (Ruins)|ステンドグラス(廃墟)
+Stone Object (Plant)|石のオブジェ(植物)
+Wood Stairs (Ruins)|木製階段(廃墟)
+Wood Stairs (Ruins)|木製階段(廃墟)
+Wood Stairs (Ruins)|木製階段(廃墟)
+Window (Ruins)|窓(廃墟)
+Window (Ruins)|窓(廃墟)
+Window (Ruins)|窓(廃墟)
+Stained Glass Window (Ruins)|ステンドグラス(廃墟)
+Stone Object (Plant)|石のオブジェ(植物)
+Wood Stairs (Ruins)|木製階段(廃墟)
+Wood Stairs (Ruins)|木製階段(廃墟)
+Wood Stairs (Ruins)|木製階段(廃墟)
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Potted Plant|植木鉢
+Wood Stairs (Ruins)|木製階段(廃墟)
+Wood Stairs (Ruins)|木製階段(廃墟)
+Wood Stairs (Ruins)|木製階段(廃墟)
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Potted Plant|植木鉢
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Hay|干し草
+Potted Plant (Withered )|植木鉢(枯れ)
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Hay|干し草
+Potted Plant (Withered )|植木鉢(枯れ)
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Bed|ベッド
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Window|窓
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Bed|ベッド
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Window|窓
+Bed|ベッド
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Bed (Ruins)|ベッド（廃墟）
+Bed|ベッド
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Bed (Ruins)|ベッド（廃墟）
+Bed|ベッド
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Bed (Ruins)|ベッド（廃墟）
+Bed|ベッド
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Bed (Ruins)|ベッド（廃墟）
+Bed|ベッド
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Bed (Ruins)|ベッド（廃墟）
+Bed|ベッド
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Bed (Ruins)|ベッド（廃墟）
+Bed|ベッド
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Bed (Ruins)|ベッド（廃墟）
+Bed|ベッド
+Bed|ベッド
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Bed|ベッド
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Bed (Ruins)|ベッド（廃墟）
+Bed|ベッド
+Bed|ベッド
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Bed|ベッド
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Bed (Ruins)|ベッド（廃墟）
+Angel Statue|天使像
+Angel Statue|天使像
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Piano|ピアノ
+Piano|ピアノ
+Piano|ピアノ
+Piano|ピアノ
+Angel Statue|天使像
+Angel Statue|天使像
+Bed|ベッド
+Bed (Ruins)|ベッド（廃墟）
+Piano|ピアノ
+Piano|ピアノ
+Piano|ピアノ
+Piano|ピアノ
+Angel Statue (Ruins)|天使像（廃墟）
+Angel Statue (Ruins)|天使像（廃墟）
+Bed|ベッド
+Window|窓
+Stone Object|石のオブジェ
+Stone Object (Ruins)|石のオブジェ(廃墟）
+Pot (Ruins)|壺(廃墟）
+Pot|壺
+Angel Statue (Ruins)|天使像（廃墟）
+Angel Statue (Ruins)|天使像（廃墟）
+Bookshelf|本棚
+Bookshelf|本棚
+Stone Object|石のオブジェ
+Stone Object (Ruins)|石のオブジェ(廃墟）
+Pot (Ruins)|壺(廃墟）
+Pot|壺
+Black Board|黒板
+Black Board|黒板
+Bookshelf|本棚
+Bookshelf|本棚
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Black Board (Ruins)|黒板（廃墟）
+Black Board (Ruins)|黒板（廃墟）
+Bookshelf|本棚
+Bookshelf|本棚
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Desk|机
+Desk|机
+Bookshelf|本棚
+Bookshelf|本棚
+Table (Flower)|テーブル(花瓶)
+Table|テーブル
+Table|テーブル
+Desk|机
+Desk (Ruins)|机（廃墟）
+Desk (Ruins)|机（廃墟）
+Bookshelf (Ruins)|本棚（廃墟）
+Bookshelf (Ruins)|本棚（廃墟）
+Table (Flower)|テーブル(花瓶)
+Table (Ruins)|テーブル(廃墟)
+Table (Ruins)|テーブル(廃墟)
+Desk (Ruins)|机（廃墟）
+Chair|椅子
+Chair (Ruins)|椅子(廃墟)
+Bookshelf (Ruins)|本棚（廃墟）
+Bookshelf (Ruins)|本棚（廃墟）

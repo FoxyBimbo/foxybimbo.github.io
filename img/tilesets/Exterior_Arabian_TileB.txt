@@ -1,0 +1,256 @@
+﻿Transparent|透明
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance (Ruins)|入口(廃墟)
+Entrance (Ruins)|入口(廃墟)
+Entrance (Snow)|入口(雪)
+Entrance (Snow)|入口(雪)
+NONE
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance (Ruins)|入口(廃墟)
+Entrance (Ruins)|入口(廃墟)
+Entrance (Snow)|入口(雪)
+Entrance (Snow)|入口(雪)
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Chimney|煙突
+Chimney|煙突
+Chimney|煙突
+Vessel|器
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Chimney (Ruins)|煙突(廃墟)
+Chimney (Ruins)|煙突(廃墟)
+Chimney (Ruins)|煙突(廃墟)
+Potted Plant|植木鉢
+Window (Ruins)|窓(廃墟)
+Window (Snow)|窓(雪)
+Window (Snow)|窓(雪)
+Window (Snow)|窓(雪)
+Chimney (Snow)|煙突(雪)
+Chimney (Snow)|煙突(雪)
+Chimney (Snow)|煙突(雪)
+Potted Plant|植木鉢
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Roof|屋根
+Roof|屋根
+Rooftop Rails|屋上柵
+Rooftop Rails|屋上柵
+Rooftop Rails|屋上柵
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Roof|屋根
+Roof|屋根
+Rooftop Rails|屋上柵
+NONE
+Rooftop Rails|屋上柵
+Eaves|庇
+Eaves|庇
+Eaves|庇
+Roof|屋根
+Roof|屋根
+Rooftop Rails|屋上柵
+Rooftop Rails|屋上柵
+Rooftop Rails|屋上柵
+Eaves|庇
+Eaves|庇
+Eaves|庇
+Rooftop Rails (Ruins)|屋上柵(廃墟)
+Rooftop Rails (Ruins)|屋上柵(廃墟)
+Rooftop Rails (Ruins)|屋上柵(廃墟)
+Rooftop Rails|屋上柵
+Rooftop Rails|屋上柵
+Eaves|庇
+Eaves|庇
+Eaves|庇
+Rooftop Rails (Ruins)|屋上柵(廃墟)
+Rooftop Rails (Ruins)|屋上柵(廃墟)
+Rooftop Rails (Ruins)|屋上柵(廃墟)
+Rooftop Rails|屋上柵
+Rooftop Rails|屋上柵
+Entrance (Ruins)|入口(廃墟)
+Entrance (Ruins)|入口(廃墟)
+Entrance (Ruins)|入口(廃墟)
+Rooftop Rails (Ruins)|屋上柵(廃墟)
+Rooftop Rails (Ruins)|屋上柵(廃墟)
+Rooftop Rails (Ruins)|屋上柵(廃墟)
+Rooftop Rails (Ruins)|屋上柵(廃墟)
+Rooftop Rails (Ruins)|屋上柵(廃墟)
+Entrance (Ruins)|入口(廃墟)
+Entrance (Ruins)|入口(廃墟)
+Entrance (Ruins)|入口(廃墟)
+Rooftop (Ruins)|屋上(廃墟)
+Rooftop (Ruins)|屋上(廃墟)
+Rooftop (Ruins)|屋上(廃墟)
+Rooftop Rails (Ruins)|屋上柵(廃墟)
+Rooftop Rails (Ruins)|屋上柵(廃墟)
+Eaves (Ruins)|庇(廃墟)
+Eaves (Ruins)|庇(廃墟)
+Eaves (Ruins)|庇(廃墟)
+Rooftop (Ruins)|屋上(廃墟)
+Rooftop (Ruins)|屋上(廃墟)
+Rooftop (Ruins)|屋上(廃墟)
+Roof (Ruins)|屋根(廃墟)
+Roof (Ruins)|屋根(廃墟)
+Eaves (Ruins)|庇(廃墟)
+Eaves (Ruins)|庇(廃墟)
+Eaves (Ruins)|庇(廃墟)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Roof (Ruins)|屋根(廃墟)
+Roof (Ruins)|屋根(廃墟)
+Eaves (Ruins)|庇(廃墟)
+Eaves (Ruins)|庇(廃墟)
+Eaves (Ruins)|庇(廃墟)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Roof (Ruins)|屋根(廃墟)
+Roof (Ruins)|屋根(廃墟)
+Entrance (Snow)|入口(雪)
+Entrance (Snow)|入口(雪)
+Entrance (Snow)|入口(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Roof (Snow)|屋根(雪)
+Roof (Snow)|屋根(雪)
+Entrance (Snow)|入口(雪)
+Entrance (Snow)|入口(雪)
+Entrance (Snow)|入口(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Entrance|入口
+Roof (Snow)|屋根(雪)
+Roof (Snow)|屋根(雪)
+Eaves (Snow)|庇(雪)
+Eaves (Snow)|庇(雪)
+Eaves (Snow)|庇(雪)
+Rooftop (Snow)|屋上(雪)
+Rooftop (Snow)|屋上(雪)
+Entrance|入口
+Roof (Snow)|屋根(雪)
+Roof (Snow)|屋根(雪)
+Eaves (Snow)|庇(雪)
+Eaves (Snow)|庇(雪)
+Eaves (Snow)|庇(雪)
+NONE
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Eaves (Snow)|庇(雪)
+Eaves (Snow)|庇(雪)
+Eaves (Snow)|庇(雪)
+Tree|木
+Tree|木
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Tree|木
+Mat|マット
+Mat|マット
+Tree|木
+Tree|木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree (Snow)|枯れ木（雪）
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree (Snow)|枯れ木（雪）
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree (Snow)|枯れ木（雪）
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree (Snow)|枯れ木（雪）
+Dead Tree (Snow)|枯れ木（雪）
+Dead Tree (Snow)|枯れ木（雪）
+Dead Tree (Snow)|枯れ木（雪）
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree (Snow)|枯れ木（雪）
+Dead Tree (Snow)|枯れ木（雪）
+Dead Tree (Snow)|枯れ木（雪）
+Dead Tree (Snow)|枯れ木（雪）
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Tree|木
+Tree|木
+Stairs (Down)|階段（下り）
+Stairs (Down)|階段（下り）
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Tree|木
+Tree|木
+Stairs (Up)|階段（上り）
+Stairs (Up)|階段（上り）
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Stairs (Down)|階段（下り）
+Stairs (Down)|階段（下り）
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Stairs (Up)|階段（上り）
+Stairs (Up)|階段（上り）
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Mat|マット
+Mat|マット

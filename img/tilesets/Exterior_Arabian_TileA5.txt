@@ -1,0 +1,128 @@
+﻿Darkness|暗闇
+Ground (Desert)|床（砂）
+Ground (Dirt)|床（土）
+Ground (Dirt)|床（土）
+Hole (Dirt)|穴（土）
+Ground (Dirt)|床（土）
+Ground (Dirt)|床（土）
+Ground (Dirt)|床（土）
+NONE
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Window)|壁（土・窓）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Window)|壁（土・窓）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Window)|壁（土・窓）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Window)|壁（土・窓）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Window)|壁（土・窓）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Window)|壁（土・窓）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins Window)|壁（土・窓廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins Window)|壁（土・窓廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ornament)|壁（土・装飾）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins Window)|壁（土・窓廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Ground (Grass)|床（草）
+Ground (Grass)|床（草）
+Ground (Tile)|床（タイル）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Wall (Dirt, Ruins Window)|壁（土・窓廃墟）
+Wall (Dirt, Ruins)|壁（土・廃墟）
+Ground (Grass)|床（草）
+Ground (Dirt)|床（土）
+Ground (Tile)|床（タイル）
+Wall (Dirt, Snow)|壁（土・雪）
+Wall (Dirt, Snow)|壁（土・雪）
+Wall (Dirt, Snow)|壁（土・雪）
+Wall (Dirt, Snow Window)|壁（土・雪窓）
+Wall (Dirt, Snow)|壁（土・雪）
+Wall (Dirt, Snow)|壁（土・雪）
+Wall (Dirt, Snow)|壁（土・雪）
+Wall (Dirt, Snow Window)|壁（土・雪窓）
+Wall (Dirt, Snow)|壁（土・雪）
+Wall (Dirt, Snow)|壁（土・雪）
+Wall (Dirt, Snow)|壁（土・雪）
+Wall (Dirt, Snow Window)|壁（土・雪窓）
+Wall (Dirt, Snow)|壁（土・雪）
+Wall (Dirt, Snow)|壁（土・雪）
+Wall (Dirt, Snow)|壁（土・雪）
+Wall (Dirt, Snow Window)|壁（土・雪窓）
+Ground (Gravel)|床（砂利）
+Ground (Stone)|床（石）
+Ground (Grass)|床（草）
+Hole (Grass)|穴（草）
+Hole (Desert)|穴（砂）
+Ground (Grass)|床（草）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ground (Stone)|床（石）
+Ground (Stone, Ruins)|床（石・廃墟）
+Ground (Grass)|床（草）
+Hole (Grass)|穴（草）
+Hole (Dirt)|穴（土）
+Ground (Grass, Stone)|床（草・石）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ground (Snow)|床（雪）
+Hole (Snow)|穴（雪）
+Slope (Snow)|坂（雪）
+Slope (Snow)|坂（雪）
+Hole (Snow)|穴（雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Stairs (Dirt, Snow)|階段（土・雪）
+Stairs (Dirt, Snow)|階段（土・雪）
+Slope (Snow)|坂（雪）
+Slope (Snow)|坂（雪）
+Stairs (Dirt, Snow)|階段（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Ledge (Dirt, Snow)|段差（土・雪）
+Stairs (Dirt, Snow)|階段（土・雪）
+Stairs (Dirt, Snow)|階段（土・雪）
+Slope (Snow)|坂（雪）
+Slope (Snow)|坂（雪）
+Stairs (Dirt)|階段（土）

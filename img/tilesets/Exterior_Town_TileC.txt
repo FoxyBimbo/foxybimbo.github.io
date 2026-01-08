@@ -1,0 +1,256 @@
+﻿NONE
+NONE
+Roof (Snow)|屋根（雪）
+NONE
+NONE
+NONE
+Roof (Thatch)|屋根（藁）
+NONE
+NONE
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+NONE
+Roof (Thatch)|屋根（藁）
+Roof (Thatch)|屋根（藁）
+Roof (Thatch)|屋根（藁）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Thatch)|屋根（藁）
+Roof (Thatch)|屋根（藁）
+Roof (Thatch)|屋根（藁）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Thatch)|屋根（藁）
+Roof (Thatch)|屋根（藁）
+Roof (Thatch)|屋根（藁）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Thatch)|屋根（藁）
+Wall (Wood)|壁(木製)
+Roof (Thatch)|屋根（藁）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+Roof (Wood)|屋根（木製）
+Roof (Snow)|屋根（雪）
+Roof (Snow)|屋根（雪）
+NONE
+Roof (Thatch, Ruins)|屋根（藁・廃墟）
+NONE
+NONE
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+NONE
+Roof (Thatch, Ruins)|屋根（藁・廃墟）
+Roof (Thatch, Ruins)|屋根（藁・廃墟）
+Roof (Thatch, Ruins)|屋根（藁・廃墟）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Thatch, Ruins)|屋根（藁・廃墟）
+Roof (Thatch, Ruins)|屋根（藁・廃墟）
+Roof (Thatch, Ruins)|屋根（藁・廃墟）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Thatch, Ruins)|屋根（藁・廃墟）
+Roof (Thatch, Ruins)|屋根（藁・廃墟）
+Roof (Thatch, Ruins)|屋根（藁・廃墟）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+NONE
+Roof (Wood)|屋根（木製）
+NONE
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Wall (Wood)|壁(木製)
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+NONE
+NONE
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+NONE
+NONE
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+NONE
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+NONE
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood)|屋根（木製）
+Wall (Wood)|壁(木製)
+Roof (Wood)|屋根（木製）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+NONE
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+NONE
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Wall (Wood, Ruins)|壁(木製・廃墟)
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+NONE
+Roof (Wood, Snow)|屋根（木製・雪）
+NONE
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Wall (Wood)|壁(木製)
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Rooftop (Wood, Snow)|屋上（木製・雪）
+Rooftop (Wood)|屋上（木製）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Rooftop (Wood, Snow)|屋上（木製・雪）
+Rooftop (Wood)|屋上（木製）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Roof (Wood)|屋根（木製）
+Rooftop (Wood, Snow)|屋上（木製・雪）
+Rooftop (Wood)|屋上（木製）
+Roof (Wood, Snow)|屋根（木製・雪）
+Wall (Wood)|壁(木製)
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Rooftop (Wood, Snow)|屋上（木製・雪）
+Rooftop (Wood)|屋上（木製）
+Rooftop (Wood, Ruins)|屋上（木製・廃墟）
+Rooftop (Wood, Snow)|屋上（木製・雪）
+Rooftop (Wood, Ruins)|屋上（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood)|屋根（木製）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood)|屋根（木製）
+Rooftop (Wood, Ruins)|屋上（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood)|屋根（木製）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood, Ruins)|屋根（木製・廃墟）
+Roof (Wood)|屋根（木製）
+NONE
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Chimney|煙突
+Chimney (Snow)|煙突（雪）
+NONE
+NONE
+NONE
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Chimney|煙突
+Chimney|煙突
+NONE
+NONE
+NONE
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Roof (Wood, Snow)|屋根（木製・雪）
+Chimney (Snow)|煙突（雪）
+Chimney (Snow)|煙突（雪）
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE

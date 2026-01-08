@@ -1,0 +1,48 @@
+﻿Building (Dirt Wall)|建物（土壁）
+Building (Dirt Wall, Snow)|建物（土壁・雪）
+Building (Dirt Wall, Ruins)|建物（土壁・廃墟）
+Wall (Hedge)|壁（生け垣）
+Wall (Hedge, Snow)|壁（生け垣・雪）
+Wall (Hedge)|壁（生け垣）
+Wall (Stone)|壁（石）
+Wall (Stone, Snow)|壁（石・雪）
+Building (Dirt Wall)|建物（土壁）
+Building (Dirt Wall, Snow)|建物（土壁・雪）
+Building (Dirt Wall, Ruins)|建物（土壁・廃墟）
+Wall (Hedge)|壁（生け垣）
+Wall (Hedge, Snow)|壁（生け垣・雪）
+Wall (Hedge)|壁（生け垣）
+Wall (Stone)|壁（石）
+Wall (Stone, Snow)|壁（石・雪）
+Ledge (Meadow)|段差（草地）
+Ledge (Meadow)|段差（草地）
+Ledge (Meadow)|段差（草地）
+Ledge (Meadow)|段差（草地）
+Ledge (Dirt)|段差（土）
+Ledge (Dirt)|段差（土）
+Ledge (Snow)|段差（雪）
+Ledge (Snow)|段差（雪）
+Cliff (Meadow)|崖（草地）
+Cliff (Meadow)|崖（草地）
+Cliff (Meadow)|崖（草地）
+Cliff (Meadow)|崖（草地）
+Cliff (Dirt)|崖（土）
+Cliff (Dirt)|崖（土）
+Cliff (Snow)|崖（雪）
+Cliff (Snow)|崖（雪）
+Forest|森
+Ledge (Desert)|段差（砂地）
+Ledge (Desert)|段差（砂地）
+Wall (Stone)|壁（石）
+Wall (Brick)|壁（レンガ）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Green Stone)|壁（緑石）
+Wall (Green Stone, Ruins)|壁（緑石・廃墟）
+Forest|森
+Cliff (Desert)|崖（砂地)
+Wall (Stone)|壁（石）
+Wall (Stone, Snow)|壁（石・雪）
+Wall (Brick)|壁（レンガ）
+Wall (Brick, Snow)|壁（レンガ・雪）
+Wall (Green Stone)|壁（緑石）
+Wall (Green Stone, Snow)|壁（緑石・雪）

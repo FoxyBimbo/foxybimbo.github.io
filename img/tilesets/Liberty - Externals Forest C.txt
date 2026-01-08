@@ -1,0 +1,256 @@
+﻿Transparent|透明
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+NONE
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Entrance|入口
+Tree|木
+Tree|木
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Entrance|入口
+Tree|木
+Tree|木
+NONE
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+NONE
+Entrance|入口
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+NONE
+Tent (Ruins)|テント(廃墟)
+NONE
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tent (Ruins)|テント(廃墟)
+Tent (Ruins)|テント(廃墟)
+Tent (Ruins)|テント(廃墟)
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Tent (Ruins)|テント(廃墟)
+Tent (Ruins)|テント(廃墟)
+Tent (Ruins)|テント(廃墟)
+Tree|木
+Tree|木
+Tree|木
+Tree|木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Tree|木
+Tree|木
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+NONE
+Flowers|花
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+NONE
+Flowers|花
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+NONE
+NONE
+NONE
+Flowers|花
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+NONE
+Tent|テント
+NONE
+Flowers|花
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Tent|テント
+Tent|テント
+Tent|テント
+Flowers|花
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Palm Tree|ヤシの木
+Tent|テント
+Tent|テント
+Tent|テント
+Flowers|花
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+NONE
+NONE
+Large Monument (Moss)|大きな石碑（苔）
+Large Monument (Moss)|大きな石碑（苔）
+Large Monument (Moss)|大きな石碑（苔）
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Stone Pillar (Moss)|石の柱（苔）
+Broken Stone Pillar (Moss)|折れた石の柱（苔）
+Large Monument (Moss)|大きな石碑（苔）
+Large Monument (Moss)|大きな石碑（苔）
+Large Monument (Moss)|大きな石碑（苔）
+Large Tree|大木
+Large Tree|大木
+Large Tree|大木
+Stone Pillar (Moss)|石の柱（苔）
+Broken Stone Pillar (Moss)|折れた石の柱（苔）
+Large Monument (Moss)|大きな石碑（苔）
+Large Monument (Moss)|大きな石碑（苔）
+Large Monument (Moss)|大きな石碑（苔）
+Fence|柵
+Fence|柵
+Fence|柵
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Hay|干し草
+Fence|柵
+NONE
+Fence|柵
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Hay|干し草
+Fence|柵
+NONE
+NONE
+NONE
+NONE
+NONE
+Haystack|干し草
+Haystack|干し草
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Haystack|干し草
+Haystack|干し草
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+NONE
+NONE
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+NONE
+NONE
+NONE
+NONE
+NONE
+Log|丸太
+Grass|草
+Moss|苔
+Moss|苔
+NONE
+Ledge (Meadow)|段差（草地）
+Ledge (Meadow)|段差（草地）
+Ledge (Meadow)|段差（草地）
+Log|丸太
+Wall Fern|壁のシダ
+Wall Vines|壁のツタ
+Wall Vines|壁のツタ
+Flowers|花
+Log|丸太
+Log|丸太
+Log|丸太
+Log|丸太
+Wall Fern|壁のシダ
+Wall Vines|壁のツタ
+Wall Vines|壁のツタ
+Flowers|花
+Flowers|花
+Flowers|花
+Rocks|小石
+Cactus|サボテン
+Hay|干し草
+Hay|干し草
+Dead Tree|枯れ木
+Flowers|花
+Bush|植え込み
+Bush (Snow)|植え込み（雪）
+Bush|植え込み
+Mushrooms|キノコ
+Fallen Log|倒木
+Rafflesia|ラフレシア
+Boulder|岩
+Flowers|花
+Well|井戸
+Well (Snow)|井戸(雪)
+Fallen Log|倒木
+Fallen Log|倒木
+Fallen Log|倒木
+Stump|切り株
+Boulder|岩
+Boulder|岩
+Snowman|雪だるま
+Stump|切り株
+Stump (Snow)|切り株(雪)
+Grass|草
+Grass|草
+Grass|草
+Boulder|岩
+Boulder (Snow)|岩(雪)

@@ -1,0 +1,32 @@
+﻿Grassland|草原
+Meadow|草地
+Dirt (Meadow)|土（草地）
+Road (Meadow)|道（草地）
+Cobblestones (Meadow)|石畳（草地）
+Road Edging|縁石
+Fencepost (Wood)|柵（木製）
+Mountain (Rock)|山（岩）
+Wasteland|荒れ地
+Meadow|草地
+Dirt (Meadow)|土（草地）
+Sand (Meadow)|砂（草地）
+Cobblestones (Meadow)|石畳（草地）
+Road Edging (Snow)|縁石（雪）
+Fencepost (Stone)|柵（石）
+Mountain (Dirt)|山（土）
+Desert|砂漠
+Desert (Quicksand)|砂漠(流砂)
+Dirt (Meadow)|土（草地）
+Sand (Meadow)|砂（草地）
+Cobblestones (Meadow)|石畳（草地）
+Road Edging (Ruins)|縁石（廃墟）
+Fencepost (Wood, Snow)|柵（木製・雪）
+Mountain (Snow)|山（雪）
+Snow|雪
+Sand|砂地
+Cobblestones (Sand)|石畳（砂地）
+Rug|じゅうたん
+Rug|じゅうたん
+Rug|じゅうたん
+Forest|森
+Forest (Snow)|森 (雪)

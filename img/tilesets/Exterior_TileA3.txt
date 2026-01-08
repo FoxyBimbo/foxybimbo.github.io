@@ -1,0 +1,32 @@
+﻿Roof (Red Tile)|屋根（赤瓦）
+Roof (Green Tile)|屋根（緑瓦）
+Roof (Blue Tile)|屋根（青瓦）
+Snow Roof|雪の屋根
+NONE
+NONE
+NONE
+NONE
+Outer Wall (Rock Wall)|外壁（石壁）
+Outer Wall (Rock Wall)|外壁（石壁）
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Roof (Wood)|屋根（木造）
+Snow Roof|雪の屋根
+Roof (Thatch)|屋根（藁）
+NONE
+NONE
+NONE
+NONE
+NONE
+Outer Wall (Wood)|外壁（木造）
+Snow Outer Wall (Wood)|雪の外壁（木造）
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE

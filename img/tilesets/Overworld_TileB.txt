@@ -1,0 +1,257 @@
+﻿Transparent|透明
+Beanstalk|豆の木
+Rock Mountain (Snow)|岩山（雪）
+Rock Mountain (Snow)|岩山（雪）
+Rock Mountain (Snow)|岩山（雪）
+Rock Mountain (Snow)|岩山（雪）
+Rock Mountain (Snow)|岩山（雪）
+Rock Mountain (Snow)|岩山（雪）
+NONE
+Beanstalk|豆の木
+Rock Mountain (Snow)|岩山（雪）
+Rock Mountain (Snow)|岩山（雪）
+Rock Mountain (Snow)|岩山（雪）
+Rock Mountain (Snow)|岩山（雪）
+Rock Mountain (Snow)|岩山（雪）
+Rock Mountain (Snow)|岩山（雪）
+Rock Mountain|岩山
+Rock Mountain|岩山
+Rock Mountain (Lava)|岩山（溶岩）
+Rock Mountain (Lava)|岩山（溶岩）
+Rock Mountain|岩山
+Rock Mountain|岩山
+Rock Mountain|岩山
+Rock Mountain|岩山
+Rock Mountain|岩山
+Rock Mountain|岩山
+Rock Mountain (Lava)|岩山（溶岩）
+Rock Mountain (Lava)|岩山（溶岩）
+Rock Mountain|岩山
+Rock Mountain|岩山
+Rock Mountain|岩山
+Rock Mountain|岩山
+Bridge (H)|橋（横）
+Bridge (V)|橋（縦）
+Snow Bridge (H)|雪の橋（横）
+Snow Bridge (V)|雪の橋（縦）
+Tunnel|トンネル
+Tunnel (Blocked)|トンネル（通行止め）
+Cave|洞窟
+Cave (Collapsed)|洞窟（土砂崩れ）
+Giant Tree|大樹
+Oasis|オアシス
+ruins|遺跡
+Floating Continent|浮遊大陸
+Pyramid|ピラミッド
+Large Tent|大きなテント
+Fence|柵
+Fence|柵
+Village|村
+Village|村
+Town|町
+Town|町
+Town|町
+Town (Snow)|町（雪）
+Town (Snow)|町（雪）
+Town (Desert)|町（砂漠）
+Village|村
+Village|村
+Town|町
+Town|町
+Town|町
+Town (Snow)|町（雪）
+Town (Snow)|町（雪）
+NONE
+Large Mansion|大きな屋敷
+Large Mansion|大きな屋敷
+School of Magic|魔法学校
+School of Magic|魔法学校
+Fortress City |城塞都市
+Fortress City |城塞都市
+Fortress City |城塞都市
+Fortress City |城塞都市
+Large Mansion|大きな屋敷
+Large Mansion|大きな屋敷
+School of Magic|魔法学校
+School of Magic|魔法学校
+Fortress City |城塞都市
+Fortress City |城塞都市
+Fortress City |城塞都市
+Fortress City |城塞都市
+Fort|砦
+Fort|砦
+Fort|砦
+Fort|砦
+Fort|砦
+Fort|砦
+Fort (Ruins)|砦（廃墟）
+Fort (Ruins)|砦（廃墟）
+Fort|砦
+Fort|砦
+Fort|砦
+Fort|砦
+Fort|砦
+Fort|砦
+Fort (Ruins)|砦（廃墟）
+Fort (Ruins)|砦（廃墟）
+Fort (Ruins, Snow)|砦（廃墟・雪）
+Fort (Ruins, Snow)|砦（廃墟・雪）
+Fort (Snow)|砦（雪）
+Fort (Snow)|砦（雪）
+Fortress City (Snow)|城塞都市（雪）
+Fortress City (Snow)|城塞都市（雪）
+Fort|砦
+Fort|砦
+Fort (Ruins, Snow)|砦（廃墟・雪）
+Fort (Ruins, Snow)|砦（廃墟・雪）
+Fort (Snow)|砦（雪）
+Fort (Snow)|砦（雪）
+Fortress City (Snow)|城塞都市（雪）
+Fortress City (Snow)|城塞都市（雪）
+Fort|砦
+Fort|砦
+Castle Wall|城壁
+Castle Wall|城壁
+Castle Wall|城壁
+Castle Wall|城壁
+Demon Castle|魔王城
+Demon Castle|魔王城
+Demon Castle|魔王城
+Demon Castle|魔王城
+Castle Wall|城壁
+Castle Wall|城壁
+Castle Wall|城壁
+Castle Wall|城壁
+Demon Castle|魔王城
+Demon Castle|魔王城
+Demon Castle|魔王城
+Demon Castle|魔王城
+Temple|神殿
+Temple|神殿
+Temple|神殿
+Temple (Snow)|神殿（雪）
+Tower|塔
+Tower (Ruins)|塔（廃墟）
+NONE
+NONE
+Tower|塔
+Tower|塔
+Tower (Ruins)|塔（廃墟）
+Tower|塔
+Tower|塔
+Tower|塔
+Tower (Snow)|塔（雪）
+NONE
+Tower|塔
+Tower|塔
+Tower (Ruins)|塔（廃墟）
+Tower|塔
+Tower|塔
+Tower|塔
+Tower (Snow)|塔（雪）
+NONE
+Tower|塔
+Tower|塔
+Tower|塔
+Tower|塔
+NONE
+NONE
+NONE
+NONE
+
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE

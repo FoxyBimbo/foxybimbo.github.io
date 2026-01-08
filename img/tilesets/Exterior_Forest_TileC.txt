@@ -1,0 +1,256 @@
+﻿NONE
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+NONE
+NONE
+NONE
+NONE
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+NONE
+NONE
+NONE
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+NONE
+NONE
+NONE
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+NONE
+NONE
+NONE
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+Entrance|入口
+NONE
+NONE
+NONE
+Giant Tree|大樹
+Giant Tree|大樹
+Giant Tree|大樹
+NONE
+Entrance|入口
+NONE
+NONE
+NONE
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+NONE
+NONE
+NONE
+NONE
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+NONE
+NONE
+NONE
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+NONE
+NONE
+NONE
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+NONE
+NONE
+NONE
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+Entrance|入口
+NONE
+NONE
+NONE
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+Giant Tree (Snow)|大樹（雪）
+NONE
+Entrance|入口
+NONE
+NONE
+NONE
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+NONE
+NONE
+NONE
+NONE
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+NONE
+NONE
+NONE
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+NONE
+NONE
+NONE
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+NONE
+NONE
+NONE
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+Entrance|入口
+NONE
+NONE
+NONE
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+Giant Tree (Withered)|大樹（枯れ）
+NONE
+Entrance|入口
+NONE
+NONE
+Fence|柵
+Fence|柵
+Fence|柵
+Fence (Snow)|柵(雪)
+Fence (Snow)|柵(雪)
+Fence (Snow)|柵(雪)
+NONE
+NONE
+Fence|柵
+NONE
+Fence|柵
+Fence (Snow)|柵(雪)
+NONE
+Fence (Snow)|柵(雪)
+NONE
+NONE
+Fence|柵
+NONE
+NONE
+Fence (Snow)|柵(雪)
+NONE
+NONE
+NONE
+NONE
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+NONE
+NONE
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+NONE
+NONE
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+Wood Bridge|木製橋
+NONE
+NONE
+NONE
+NONE
+NONE
+Log|丸太
+Grass|草
+Moss|苔
+Moss|苔
+NONE
+Ledge (Meadow)|段差（草地）
+Ledge (Meadow)|段差（草地）
+Ledge (Meadow)|段差（草地）
+Log|丸太
+Wall Fern|壁のシダ
+Wall Vines|壁のツタ
+Wall Vines|壁のツタ
+NONE
+Log|丸太
+Log|丸太
+Log|丸太
+Log|丸太
+Wall Fern|壁のシダ
+Wall Vines|壁のツタ
+Wall Vines|壁のツタ
+NONE
+Flowers|花
+Flowers|花
+Flowers|花
+Flowers|花
+Rocks|小石
+Hay|干し草
+Hay|干し草
+Dead Tree|枯れ木
+Cactus|サボテン
+Bush|植え込み
+Bush (Snow)|植え込み（雪）
+Bush|植え込み
+Fallen Log|倒木
+Mushrooms|キノコ
+Rafflesia|ラフレシア
+Boulder|岩
+Well|井戸
+Well (Snow)|井戸(雪)
+Fallen Log|倒木
+Fallen Log|倒木
+Fallen Log|倒木
+Stump|切り株
+Boulder|岩
+Boulder|岩
+Snowman|雪だるま
+Stump|切り株
+Stump (Snow)|切り株(雪)
+Grass|草
+Grass|草
+Grass|草
+Boulder|岩
+Boulder (Snow)|岩(雪)
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE

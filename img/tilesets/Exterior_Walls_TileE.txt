@@ -1,0 +1,256 @@
+﻿Transparent|透明
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Wall|塀
+Wall|塀
+Wall|塀
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall|塀
+Wall|塀
+Wall (Ruins)|塀（廃墟）
+Wall (Ruins)|塀（廃墟）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Ruins)|塀（廃墟）
+Wall (Ruins)|塀（廃墟）
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall (Ruins)|塀（廃墟）
+Wall (Ruins)|塀（廃墟）
+NONE
+Wall|塀
+Wall|塀
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Ruins)|塀（廃墟）
+Wall (Ruins)|塀（廃墟）
+NONE
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Ruins)|塀（廃墟）
+Wall (Ruins)|塀（廃墟）
+NONE
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall|塀
+Wall|塀
+Wall|塀
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Ruins)|塀（廃墟）
+Wall (Ruins)|塀（廃墟）
+Wall (Ruins)|塀（廃墟）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+NONE
+NONE
+NONE
+Wall|塀
+Wall (Snow)|塀（雪）
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall|塀
+Wall|塀
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Wall (Ruins)|塀（廃墟）
+Wall (Ruins)|塀（廃墟）
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall (Ruins)|塀（廃墟）
+Wall (Ruins)|塀（廃墟）
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall (Ruins)|塀（廃墟）
+Wall (Ruins)|塀（廃墟）
+Wall (Ruins)|塀（廃墟）
+Wall (Ruins)|塀（廃墟）
+Wall|塀
+Wall|塀
+Wall|塀
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Ruins)|塀（廃墟）
+Wall (Ruins)|塀（廃墟）
+Wall|塀
+Wall|塀
+Wall|塀
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Ruins)|塀（廃墟）
+Wall (Ruins)|塀（廃墟）
+Wall|塀
+Wall (Ruins)|塀（廃墟）
+Wall|塀
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall|塀
+Wall (Ruins)|塀（廃墟）
+Wall|塀
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall|塀
+Wall (Ruins)|塀（廃墟）
+Wall|塀
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall|塀
+Wall|塀
+Wall|塀
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall|塀
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+Wall|塀
+Wall|塀
+NONE
+Wall (Snow)|塀（雪）
+Wall (Snow)|塀（雪）
+NONE
+NONE
+NONE
+Stone Step|石の段差
+Stone Step|石の段差
+Stone Step|石の段差
+Stone Step|石の段差
+Stone Step|石の段差
+NONE
+NONE
+NONE
+Stone Step|石の段差
+NONE
+Stone Step (Ruins)|石の段差（廃墟）
+Stone Step|石の段差
+Stone Step|石の段差
+NONE
+NONE
+NONE
+Stone Step|石の段差
+Stone Step (Ruins)|石の段差（廃墟）
+Stone Step|石の段差
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE

@@ -1,0 +1,256 @@
+﻿Transparent|透明
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+NONE
+Rooftop|屋上
+Rooftop|屋上
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Rooftop|屋上
+Rooftop|屋上
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Rooftop|屋上
+Rooftop|屋上
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Rooftop|屋上
+Rooftop|屋上
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Roof (Stone)|屋根（石）
+Rooftop|屋上
+Rooftop|屋上
+NONE
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+NONE
+Rooftop|屋上
+Rooftop|屋上
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Rooftop (Ruins)|屋上(廃墟)
+Rooftop (Ruins)|屋上(廃墟)
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Roof (Stone, Ruins)|屋根（石・廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+NONE
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+NONE
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Rooftop (Ruins)|屋上（廃墟）
+Rooftop (Ruins)|屋上（廃墟）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Rooftop (Snow)|屋根（雪）
+Rooftop (Snow)|屋根（雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Rooftop (Snow)|屋根（雪）
+Rooftop (Snow)|屋根（雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Roof (Stone, Snow)|屋根（石・雪）
+Rooftop (Snow)|屋根（雪）
+Rooftop (Snow)|屋根（雪）
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Rooftop (Snow)|屋根（雪）
+Rooftop (Snow)|屋根（雪）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+NONE
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+NONE
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+NONE
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+NONE
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+NONE
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile)|屋根（赤瓦）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Tree|木
+Tree|木
+Tree|木
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Tree|木
+Tree|木
+Tree|木
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Tree|木
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Dead Tree|枯れ木
+Conifer Tree|針葉樹
+Conifer Tree|針葉樹
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Roof (Red Tile, Ruins)|屋根（赤瓦・廃墟）
+Dead Tree|枯れ木
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree (Snow)|針葉樹（雪）
+Stairs (Down)|階段（下り）
+Stairs (Down)|階段（下り）
+Stairs (Down)|階段（下り）
+Stairs (Down)|階段（下り）
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Conifer Tree (Snow)|針葉樹（雪）
+Conifer Tree (Snow)|針葉樹（雪）
+Stairs (Up)|階段（上り）
+Stairs (Up)|階段（上り）
+Stairs (Up)|階段（上り）
+Stairs (Up)|階段（上り）
+Dead Tree|枯れ木
+Dead Tree|枯れ木
+Dead Tree (Snow)|枯れ木（雪）
+Dead Tree (Snow)|枯れ木（雪）

@@ -1,0 +1,8 @@
+﻿Transparent|透明
+Meadow|草地
+Dirt|土
+Desert|砂地
+Rock|岩
+Snow|雪
+Ice|氷
+Cobblestones|石畳

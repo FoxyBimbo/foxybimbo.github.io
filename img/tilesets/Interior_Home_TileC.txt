@@ -1,0 +1,256 @@
+﻿Chair (Wood)|椅子（木製）
+Chair (Stone)|椅子（石製）
+Throne|玉座
+Throne|玉座
+Chair|椅子
+Bench|ベンチ
+Bench|ベンチ
+Chair|椅子
+Chair (Wood)|椅子（木製）
+Chair (Stone)|椅子（石製）
+Throne|玉座
+Throne|玉座
+Chair|椅子
+Bench|ベンチ
+Bench|ベンチ
+Chair|椅子
+Chair (Wood, Ruins)|椅子（木製・廃墟）
+Chair (Stone, Ruins)|椅子（石製・廃墟）
+Throne (Ruins)|玉座（廃墟）
+Throne (Ruins)|玉座（廃墟）
+Chair (Ruins)|椅子（廃墟）
+Bench (Ruins)|ベンチ（廃墟）
+Bench (Ruins)|ベンチ（廃墟）
+Stool|椅子
+Chair (Wood, Ruins)|椅子（木製・廃墟）
+Chair (Stone, Ruins)|椅子（石製・廃墟）
+Throne (Ruins)|玉座（廃墟）
+Throne (Ruins)|玉座（廃墟）
+Chair (Ruins)|椅子（廃墟）
+Chair|椅子
+Chair|椅子
+Stool|椅子
+Chest|チェスト
+Chest|チェスト
+Chest (Ruins)|チェスト（廃墟）
+Table|テーブル
+Table| (Ruins)テーブル（廃墟）
+Table| (Ruins)テーブル（廃墟）
+Table|テーブル
+Stool (Ruins)|椅子（廃墟）
+Chest|チェスト
+Chest|チェスト
+Chest (Ruins)|チェスト（廃墟）
+Desk|机
+Desk (Ruins)|机（廃墟）
+NONE
+Table|テーブル
+Stool (Ruins)|椅子（廃墟）
+Desk (Light)|机(照明)
+Desk (Pot)|机(壺)
+Desk (Pot, Ruins)|机(壺・廃墟)
+Desk|机
+Desk (Ruins)|机（廃墟）
+Mirror (Ruins)|鏡（廃墟）
+Mirror|鏡
+Tub|たらい
+Chest|チェスト
+Chest|チェスト
+Chest|チェスト
+Chest|チェスト
+Chest (Ruins)|チェスト（廃墟）
+Chest (Ruins)|チェスト（廃墟）
+Shelf|棚
+Shelf|棚
+Chest|チェスト
+Chest|チェスト
+Chest|チェスト
+Chest|チェスト
+Chest (Ruins)|チェスト（廃墟）
+Chest (Ruins)|チェスト（廃墟）
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf (Ruins)|棚（廃墟）
+Shelf (Ruins)|棚（廃墟）
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf (Ruins)|棚（廃墟）
+Shelf (Ruins)|棚（廃墟）
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf|棚
+Shelf (Ruins)|棚（廃墟）
+Shelf (Ruins)|棚（廃墟）
+Shelf (Ruins)|棚（廃墟）
+Shelf (Ruins)|棚（廃墟）
+Shelf (Ruins)|棚（廃墟）
+Shelf (Ruins)|棚（廃墟）
+NONE
+NONE
+Shelf (Ruins)|棚（廃墟）
+Shelf (Ruins)|棚（廃墟）
+Shelf (Ruins)|棚（廃墟）
+Shelf (Ruins)|棚（廃墟）
+Shelf (Ruins)|棚（廃墟）
+Shelf (Ruins)|棚（廃墟）
+NONE
+NONE
+Shelf (Ruins)|棚（廃墟）
+NONE
+Shelf (Ruins)|棚（廃墟）
+Shelf (Ruins)|棚（廃墟）
+Shelf (Ruins)|棚（廃墟）
+Shelf (Ruins)|棚（廃墟）
+NONE
+NONE
+Chest|チェスト
+Chest|チェスト
+Chest|チェスト
+Sink|流し
+Armor (Stand)|鎧（スタンド）
+Armor (Stand, Ruins)|鎧（スタンド・廃墟）
+NONE
+NONE
+Chest|チェスト
+Chest|チェスト
+Chest|チェスト
+Sink|流し
+Armor (Stand)|鎧（スタンド）
+Armor (Stand, Ruins)|鎧（スタンド・廃墟）
+Rugs|じゅうたん
+Rugs (Ruins)|じゅうたん（廃墟）
+NONE
+Cooking Stove|コンロ
+Flower|花瓶
+Bottle|ボトル
+Grass|草
+Grass|草
+Flowers|花
+NONE
+Sack|袋
+Sack|袋
+Vegetable|野菜
+Drink|飲料
+Box|箱
+Candlestand|燭台
+Candlestand (Ruins)|燭台（廃墟）
+Clock|時計
+Simple Shelf|簡易棚
+Simple Shelf (Ruins)|簡易棚(廃墟)
+Picture|絵画
+Posted Notice|貼り紙
+Posted Notice|貼り紙
+Posted Notice (Ruins)|貼り紙（廃墟）
+Clothing (Hanging)|服（壁掛け）
+Staghead|鹿の頭
+Simple Shelf (Books)|簡易棚(本)
+Simple Shelf (Foods)|簡易棚(食材)
+Picture|絵画
+Posted Notice|貼り紙
+Stone Tablet|石版
+Stone Tablet|石版
+Clothing (Hanging)|布（壁掛け）
+Clothing (Hanging)|布（壁掛け）
+Shield|盾
+Shield|盾
+Swords|剣
+Axes|斧
+Bows|弓
+Paper|紙
+Stuffed Doll|ぬいぐるみ
+Cup|カップ
+Texture|生地
+Spears|槍
+Shields|盾
+Bows & Arrows|弓矢
+Swords|剣
+Glass & Bottle|グラスとボトル
+Pint Mug & Ale Bottle|ジョッキと瓶
+Cup & Teapot|カップとポット
+Texture|生地
+Spears|槍
+Necklaces|ネックレス
+Letter|手紙
+Letter|手紙
+Book|本
+Book|本
+Water|水
+Water|水
+Box|箱
+Necklaces|ネックレス
+Necklace|ネックレス
+Plate|皿
+Plate (Ruins)|皿（廃墟）
+Bottle|ボトル
+Ale Bottle|瓶
+Rugs|じゅうたん
+NONE
+NONE
+Omelet|オムレツ
+Meal (Meat)|肉料理
+Meal (Fish)|魚料理
+Meal (Fish)|魚料理
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE

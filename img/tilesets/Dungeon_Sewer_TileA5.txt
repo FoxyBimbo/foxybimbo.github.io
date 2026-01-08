@@ -1,0 +1,128 @@
+﻿Darkness|暗闇
+Ground (Stone)|床（石）
+Ground (Stone)|床（石）
+Ground (Grass)|床（草）
+Ground (Gravel)|床（砂利）
+Ground (Green Stone)|床（緑石）
+Ground (Wood)|床（木製）
+Ground (Wood)|床（木製）
+Hole (Stone)|穴（石）
+Wall (Brick, Hole)|壁（レンガ・穴）
+Wall (Brick, Vent)|壁（レンガ・通風孔）
+Wall (Brick, Moss)|壁（レンガ・苔）
+Wall (Brick, Moss)|壁（レンガ・苔）
+Wall (Brick, Moss)|壁（レンガ・苔）
+Wall (Brick, Moss)|壁（レンガ・苔）
+Wall (Brick, Moss)|壁（レンガ・苔）
+Wall (Brick, Hollow)|壁（レンガ・窪み）
+Wall (Brick, Stone Line)|壁（レンガ・石線）
+Wall (Brick, Stone Line)|壁（レンガ・石線）
+Wall (Brick, Stone Relief)|壁（レンガ・石のレリーフ）
+Wall (Brick, Grating)|壁（レンガ・格子）
+Wall (Brick, Portal)|壁（レンガ・入口）
+Wall (Brick, Moss)|壁（レンガ・苔）
+Ground (Tile)|床（タイル）
+Wall (Brick, Hollow)|壁（レンガ・窪み）
+Wall (Brick, Stone Line)|壁（レンガ・石線）
+Wall (Brick, Stone Line)|壁（レンガ・石線）
+Wall (Brick, Stone Relief)|壁（レンガ・石のレリーフ）
+Wall (Brick, Grating)|壁（レンガ・格子）
+Wall (Brick, Portal)|壁（レンガ・入口）
+Wall (Brick, Moss)|壁（レンガ・苔）
+Ground (Tile)|床（タイル）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Stone)|壁（レンガ・石）
+Ledge (Brick)|段差（レンガ）
+Ledge (Brick)|段差（レンガ）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Ruins)|壁（レンガ・廃墟）
+Wall (Brick, Stone)|壁（レンガ・石）
+Ledge (Brick)|段差（レンガ）
+Ledge (Brick)|段差（レンガ）
+Hole (Brick)|穴（レンガ）
+Hole (Brick)|穴（レンガ）
+Hole (Brick)|穴（レンガ）
+Hole (Brick)|穴（レンガ）
+Hole (Brick)|穴（レンガ）
+Ledge (Brick)|段差（レンガ）
+Ledge (Brick)|段差（レンガ）
+Ledge (Brick)|段差（レンガ）
+Hole (Brick)|穴（レンガ）
+Hole (Brick)|穴（レンガ）
+Hole (Brick)|穴（レンガ）
+Hole (Brick)|穴（レンガ）
+Hole (Brick)|穴（レンガ）
+Ledge (Brick)|段差（レンガ）
+Ledge (Brick)|段差（レンガ）
+Ledge (Brick)|段差（レンガ）
+Hole (Brick)|穴（レンガ）
+Hole (Brick)|穴（レンガ）
+Hole (Brick)|穴（レンガ）
+Hole (Brick)|穴（レンガ）
+Hole (Brick)|穴（レンガ）
+Ledge (Brick)|段差（レンガ）
+Ledge (Brick)|段差（レンガ）
+Ledge (Brick)|段差（レンガ）
+Hole (Brick)|穴（レンガ）
+Hole (Brick)|穴（レンガ）
+Hole (Brick)|穴（レンガ）
+Hole (Brick)|穴（レンガ）
+Hole (Brick)|穴（レンガ）
+Stairs (Brick)|階段（レンガ）
+Stairs (Brick)|階段（レンガ）
+Stairs (Brick)|階段（レンガ）
+Ground (Blue Tile)|床（青タイル）
+Ground (Blue Tile, Ruins)|床（青タイル・廃墟）
+Ground (Blue Tile, Ruins)|床（青タイル・廃墟）
+Hole (Brick)|穴（レンガ）
+Hole (Brick)|穴（レンガ）
+Stairs (Brick)|階段（レンガ）
+Stairs (Brick)|階段（レンガ）
+Stairs (Brick)|階段（レンガ）
+Ground (Wood)|床（木製）
+Ground (Wood, Ruins)|床（木製・廃墟）
+Ground (Wood Tile)|床（木製タイル）
+Ground (Wood Tile, Shadow)|床（木製タイル・影）
+Ground (Wood Tile, Shadow)|床（木製タイル・影）
+Ground (Wood Tile, Light)|床（木製タイル・光）
+Ground (Wood Tile, Ruins)|床（木製タイル・廃墟）
+Ground (Wood Tile, Ruins)|床（木製タイル・廃墟）
+Ground (Wood)|床（木製）
+Ground (Wood, Ruins)|床（木製・廃墟）
+Ground (Wood Tile)|床（木製タイル）
+Ground (Wood Tile, Shadow)|床（木製タイル・影）
+Ground (Wood Tile, Shadow)|床（木製タイル・影）
+Ground (Wood Tile, Light)|床（木製タイル・光）
+Ground (Wood Tile, Ruins)|床（木製タイル・廃墟）
+Ground (Wood Tile, Ruins)|床（木製タイル・廃墟）
+Ground (Wood)|床（木製）
+Ground (Wood, Ruins)|床（木製・廃墟）
+Ground (Green Tile)|床（緑タイル）
+Ground (Green Tile, Shadow)|床（緑タイル・影）
+Ground (Green Tile, Shadow)|床（緑タイル・影）
+Ground (Green Tile, Light)|床（緑タイル・光）
+Ground (Green Tile, Ruins)|床（緑タイル・廃墟）
+Ground (Green Tile, Ruins)|床（緑タイル・廃墟）
+Ground (Wood)|床（木製）
+Ground (Wood, Ruins)|床（木製・廃墟）
+Ground (Green Tile)|床（緑タイル）
+Ground (Green Tile, Shadow)|床（緑タイル・影）
+Ground (Green Tile, Shadow)|床（緑タイル・影）
+Ground (Green Tile, Light)|床（緑タイル・光）
+Ground (Green Tile, Ruins)|床（緑タイル・廃墟）
+Ground (Green Tile, Ruins)|床（緑タイル・廃墟）
+Ground (Stone, Ruins)|床（石・廃墟）
+Ground (Stone, Ruins)|床（石・廃墟）
+Ground (Brick, Shadow)|床（レンガ・影）
+Ground (Brick, Shadow)|床（レンガ・影）
+Ground (Brick, Light)|床（レンガ・光）
+Ground (Brick, Light)|床（レンガ・光）
+Ground (Brick, Ruins)|床（レンガ・廃墟）
+Ground (Brick, Ruins)|床（レンガ・廃墟）

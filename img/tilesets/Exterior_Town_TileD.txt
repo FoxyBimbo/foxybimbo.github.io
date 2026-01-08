@@ -1,0 +1,257 @@
+﻿Wood Shade|日よけ
+Wood Shade|日よけ
+Wood Shade (Ruins)|日よけ（廃墟）
+Wood Shade (Ruins)|日よけ（廃墟）
+Wood Shade (Snow)|日よけ（雪）
+Wood Shade (Snow)|日よけ（雪）
+Wood Shade (Snow)|日よけ（雪）
+NONE
+Wood Shade|日よけ
+Wood Shade|日よけ
+Wood Shade (Ruins)|日よけ（廃墟）
+Wood Shade (Ruins)|日よけ（廃墟）
+Wood Shade (Snow)|日よけ（雪）
+NONE
+Wood Shade (Snow)|日よけ（雪）
+NONE
+Wood Shade|日よけ
+Wood Shade|日よけ
+Wood Shade|日よけ
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Window|窓
+Window|窓
+Wood Shade|日よけ
+Wood Shade|日よけ
+Wood Shade|日よけ
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Window|窓
+Window|窓
+Wood Shade|日よけ
+NONE
+Wood Shade|日よけ
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Window|窓
+Window|窓
+Wood Shade (Ruins)|日よけ（廃墟）
+Wood Shade (Ruins)|日よけ（廃墟）
+Wood Shade (Ruins)|日よけ（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Window|窓
+Window|窓
+Wood Shade (Ruins)|日よけ（廃墟）
+Wood Shade (Ruins)|日よけ（廃墟）
+Wood Shade (Ruins)|日よけ（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Window|窓
+Window (Snow)|窓(雪)
+Wood Shade (Ruins)|日よけ（廃墟）
+NONE
+Wood Shade (Ruins)|日よけ（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Window|窓
+Window (Snow)|窓(雪)
+Wood Shade (Snow)|日よけ（雪）
+Wood Shade (Snow)|日よけ（雪）
+Wood Shade (Snow)|日よけ（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+NONE
+NONE
+Wood Shade (Snow)|日よけ（雪）
+Wood Shade (Snow)|日よけ（雪）
+Wood Shade (Snow)|日よけ（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance|入口
+NONE
+Wood Shade (Snow)|日よけ（雪）
+NONE
+Wood Shade (Snow)|日よけ（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+NONE
+NONE
+Wood deck|デッキ
+Wood deck|デッキ
+Wood deck (Entrance)|デッキ(入口)
+Wood deck|デッキ
+Wall (Wood, Ruins)|壁（木・廃墟）
+Wall (Wood, Ruins)|壁（木・廃墟）
+Wall (Wood, Ruins)|壁（木・廃墟）
+NONE
+Wood deck|デッキ
+Wood deck|デッキ
+Wood deck (Stairs)|デッキ(階段)
+Wood deck|デッキ
+Wall (Wood, Ruins)|壁（木・廃墟）
+Wall (Wood, Ruins)|壁（木・廃墟）
+Wall (Wood, Ruins)|壁（木・廃墟）
+NONE
+Wood deck|デッキ
+Wood deck|デッキ
+NONE
+Wood deck|デッキ
+Entrance|入口
+Entrance|入口
+Entrance|入口
+NONE
+Wood deck (Ruins)|デッキ(廃墟)
+Wood deck (Ruins)|デッキ(廃墟)
+Wood deck (Stairs, Ruins)|デッキ(階段・廃墟)
+Wood deck (Ruins)|デッキ(廃墟)
+Entrance|入口
+Entrance|入口
+Entrance|入口
+NONE
+Wood deck (Ruins)|デッキ(廃墟)
+Wood deck (Ruins)|デッキ(廃墟)
+NONE
+Wood deck (Ruins)|デッキ(廃墟)
+Entrance|入口
+Entrance|入口
+Entrance|入口
+NONE
+Wood deck (Snow)|デッキ(雪)
+NONE
+Wood deck (Stairs, Snow)|デッキ(階段・雪)
+Wood deck (Snow)|デッキ(雪)
+NONE
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Wood deck (Snow)|デッキ(雪)
+Wood deck (Snow)|デッキ(雪)
+NONE
+Wood deck (Snow)|デッキ(雪)
+NONE
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Entrance|入口
+NONE
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance|入口
+Window|窓
+Entrance|入口
+NONE
+NONE
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+NONE
+NONE
+NONE
+NONE
+NONE
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+NONE
+NONE
+NONE
+NONE
+NONE
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+Entrance (Snow)|入口（雪）
+NONE
+NONE
+NONE
+NONE
+NONE
+Entrance|入口
+Entrance|入口
+Entrance|入口
+NONE
+NONE
+NONE
+NONE
+NONE
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Sign|立て札
+Sign (Snow)|立て札（雪）
+Sack|袋
+Cage|籠
+Cage|籠
+Cage (Ruins)|籠(廃墟)
+Barrel|樽
+Barrel|樽
+Sign|立て札
+Sign (Snow)|立て札（雪）
+Barrel|樽
+Barrel (Snow)|樽（雪）
+Barrel|樽
+Barrel (Ruins)|樽(廃墟)
+Barrel|樽
+Barrel|樽
+Grave|墓
+Grave (Snow)|墓（雪）
+Grave|墓
+Pot|壺
+Pot (Ruins)|壺(廃墟)
+Barrel (Ruins)|樽(廃墟)
+Scrap Wood|端材
+Scrap Wood|端材
+Firewood|薪
+Firewood (Snow)|薪 (Snow)
+Sack|袋
+Vessel|器
+Vessel|器
+Crate|木箱
+Crate|木箱
+Crate (Ruins)|木箱(廃墟)
+Sack|袋
+Sack|袋
+Sack (Ruins)|袋(廃墟)
+Sack|袋
+Crops|農作物
+Crops|農作物
+Crops|農作物
+Texture|生地
+Flower Vessel|花飾り
+Vessel|器
+Vessel (Snow)|器(雪)
+Vessel (Ruins)|器(廃墟)
+Dead Flower|枯れ花
+Mooring Bollard|ビット
+Mooring Bollard (Rope)|ビット（ロープ）
+Mooring Bollard (Snow)|ビット(雪)
+Flower Vessel|花飾り
+Vessel|器
+Vessel (Snow)|器(雪)
+Vessel (Ruins)|器(廃墟)
+Dead Flower|枯れ花
+Mooring Bollard (Rope, Snow)|ビット（ロープ・雪）
+Flower|花
+Flower (Snow)|花(雪)
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Dead Flower|枯れ花
+

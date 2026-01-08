@@ -1,0 +1,23 @@
+Water (Meadow)|水場（草地）
+Water (Meadow)|水場（草地）
+Lotus Pads (Flowers)|蓮の葉（花）
+Rock|岩
+Water (Dirt)|水場（土）
+Water|水場
+Water (Sand)|水場（砂）
+Whirlpool|渦
+Water (Meadow)|水場（草地）
+Waterfall (Stone Wall)|滝（石壁）
+Water (Meadow)|水場（草地）
+Waterfall (Stone Wall)|滝（石壁）
+Poison Swamp|毒の沼
+Dead Trees|枯れ木
+Land's End|大地の境界
+Whirlpool|渦
+
+
+
+
+
+
+

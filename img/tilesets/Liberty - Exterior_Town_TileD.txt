@@ -1,0 +1,257 @@
+﻿Wood Shade|日よけ
+Wood Shade|日よけ
+Wood Shade (Ruins)|日よけ（廃墟）
+Wood Shade (Ruins)|日よけ（廃墟）
+NONE
+NONE
+Chimney|煙突
+Chimney|煙突
+Wood Shade|日よけ
+Wood Shade|日よけ
+Wood Shade (Ruins)|日よけ（廃墟）
+Wood Shade (Ruins)|日よけ（廃墟）
+NONE
+NONE
+Chimney|煙突
+Chimney|煙突
+Wood Shade|日よけ
+Wood Shade|日よけ
+Wood Shade|日よけ
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Window|窓
+Window|窓
+Wood Shade|日よけ
+Wood Shade|日よけ
+Wood Shade|日よけ
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Window|窓
+Window|窓
+Wood Shade|日よけ
+NONE
+Wood Shade|日よけ
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Window|窓
+Window|窓
+Wood Shade (Ruins)|日よけ（廃墟）
+Wood Shade (Ruins)|日よけ（廃墟）
+Wood Shade (Ruins)|日よけ（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Window|窓
+Window|窓
+Wood Shade (Ruins)|日よけ（廃墟）
+Wood Shade (Ruins)|日よけ（廃墟）
+Wood Shade (Ruins)|日よけ（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Window|窓
+Window (Snow)|窓(雪)
+Wood Shade (Ruins)|日よけ（廃墟）
+NONE
+Wood Shade (Ruins)|日よけ（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Window|窓
+Window (Snow)|窓(雪)
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+NONE
+Entrance|入口
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Haystack|干し草
+Entrance|入口
+Entrance|入口
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Wood deck|デッキ
+Wood deck|デッキ
+Wood deck (Entrance)|デッキ(入口)
+Wood deck|デッキ
+Wall (Wood, Ruins)|壁（木・廃墟）
+Wall (Wood, Ruins)|壁（木・廃墟）
+Wall (Wood, Ruins)|壁（木・廃墟）
+Crate|木箱
+Wood deck|デッキ
+Wood deck|デッキ
+Wood deck (Stairs)|デッキ(階段)
+Wood deck|デッキ
+Wall (Wood, Ruins)|壁（木・廃墟）
+Wall (Wood, Ruins)|壁（木・廃墟）
+Wall (Wood, Ruins)|壁（木・廃墟）
+Crate|木箱
+Wood deck (Ruins)|デッキ(廃墟)
+Wood deck (Ruins)|デッキ(廃墟)
+Wood deck (Stairs, Ruins)|デッキ(階段・廃墟)
+Wood deck (Ruins)|デッキ(廃墟)
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Crate|木箱
+Window|窓
+Window|窓
+Window|窓
+Window|窓
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Crate|木箱
+Window|窓
+NONE
+Window|窓
+NONE
+Entrance|入口
+Entrance|入口
+Entrance|入口
+NONE
+NONE
+Window|窓
+NONE
+Flowers|花
+Flowers|花
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Fence|柵
+Fence|柵
+Fence|柵
+Flowers|花
+Flowers|花
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Fence|柵
+NONE
+Fence|柵
+Flowers|花
+Flowers|花
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Entrance (Ruins)|入口（廃墟）
+Fence|柵
+NONE
+NONE
+Ledge|段差
+Ledge|段差
+Hay|干し草
+Chimney|煙突
+Chimney|煙突
+Fence (Snow)|柵（雪）
+Fence (Snow)|柵（雪）
+Fence (Snow)|柵（雪）
+Stained Glass Window|ステンドグラス
+Stained Glass Window|ステンドグラス
+Hay|干し草
+Chimney|煙突
+Chimney|煙突
+Fence (Snow)|柵（雪）
+NONE
+Fence (Snow)|柵（雪）
+Stained Glass Window|ステンドグラス
+Stained Glass Window|ステンドグラス
+NONE
+NONE
+NONE
+Fence (Snow)|柵（雪）
+NONE
+Barrel|樽
+Window|窓
+Window|窓
+Entrance|入口
+Entrance|入口
+Entrance|入口
+NONE
+NONE
+Barrel|樽
+Window|窓
+Window|窓
+Entrance|入口
+Entrance|入口
+Entrance|入口
+Sign|立て札
+Sign (Snow)|立て札（雪）
+Sack|袋
+Cage|籠
+Cage|籠
+Cage (Ruins)|籠(廃墟)
+Barrel|樽
+Barrel|樽
+Sign|立て札
+Sign (Snow)|立て札（雪）
+Barrel|樽
+Barrel (Snow)|樽（雪）
+Barrel|樽
+Barrel (Ruins)|樽(廃墟)
+Barrel|樽
+Barrel|樽
+Grave|墓
+Grave (Snow)|墓（雪）
+Grave|墓
+Pot|壺
+Pot (Ruins)|壺(廃墟)
+Barrel (Ruins)|樽(廃墟)
+Scrap Wood|端材
+Scrap Wood|端材
+Firewood|薪
+Firewood (Snow)|薪 (Snow)
+Sack|袋
+Vessel|器
+Vessel|器
+Crate|木箱
+Crate|木箱
+Crate (Ruins)|木箱(廃墟)
+Sack|袋
+Sack|袋
+Sack (Ruins)|袋(廃墟)
+Sack|袋
+Crops|農作物
+Crops|農作物
+Crops|農作物
+Texture|生地
+Flower Vessel|花飾り
+Vessel|器
+Vessel (Snow)|器(雪)
+Vessel (Ruins)|器(廃墟)
+Dead Flower|枯れ花
+Mooring Bollard|ビット
+Mooring Bollard (Rope)|ビット（ロープ）
+Mooring Bollard (Snow)|ビット(雪)
+Flower Vessel|花飾り
+Vessel|器
+Vessel (Snow)|器(雪)
+Vessel (Ruins)|器(廃墟)
+Dead Flower|枯れ花
+Mooring Bollard (Rope, Snow)|ビット（ロープ・雪）
+Flower|花
+Flower (Snow)|花(雪)
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+NONE
+Dead Flower|枯れ花
+

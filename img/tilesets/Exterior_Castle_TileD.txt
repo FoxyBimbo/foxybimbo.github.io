@@ -1,0 +1,257 @@
+﻿Round Tower (Castle)|円塔（城）
+Round Tower (Castle)|円塔（城）
+Round Tower (Castle, Ruins)|円塔（城・廃墟）
+Round Tower (Castle, Ruins)|円塔（城・廃墟）
+Round Tower (Castle, Snow)|円塔（城・雪）
+Round Tower (Castle, Snow)|円塔（城・雪）
+Round Tower (Castle's Spire)|円塔（城の尖塔）
+Round Tower (Castle's Spire)|円塔（城の尖塔）
+Round Tower (Castle)|円塔（城）
+Round Tower (Castle)|円塔（城）
+Round Tower (Castle, Ruins)|円塔（城・廃墟）
+Round Tower (Castle, Ruins)|円塔（城・廃墟）
+Round Tower (Castle, Snow)|円塔（城・雪）
+Round Tower (Castle, Snow)|円塔（城・雪）
+Round Tower (Castle's Spire)|円塔（城の尖塔）
+Round Tower (Castle's Spire)|円塔（城の尖塔）
+Round Tower (Castle)|円塔（城）
+Round Tower (Castle)|円塔（城）
+Round Tower (Castle, Ruins)|円塔（城・廃墟）
+Round Tower (Castle, Ruins)|円塔（城・廃墟）
+Round Tower (Castle, Snow)|円塔（城・雪）
+Round Tower (Castle, Snow)|円塔（城・雪）
+Round Tower (Castle's Spire)|円塔（城の尖塔）
+Round Tower (Castle's Spire)|円塔（城の尖塔）
+Round Tower (Castle)|円塔（城）
+Round Tower (Castle)|円塔（城）
+Round Tower (Castle, Ruins)|円塔（城・廃墟）
+Round Tower (Castle, Ruins)|円塔（城・廃墟）
+Round Tower (Castle, Snow)|円塔（城・雪）
+Round Tower (Castle, Snow)|円塔（城・雪）
+Round Tower (Castle's Spire, Ruins)|円塔（城の尖塔・廃墟）
+Round Tower (Castle's Spire, Ruins)|円塔（城の尖塔・廃墟）
+Round Tower (Castle)|円塔（城）
+Round Tower (Castle)|円塔（城）
+Round Tower (Castle, Ruins)|円塔（城・廃墟）
+Round Tower (Castle, Ruins)|円塔（城・廃墟）
+Round Tower (Castle, Snow)|円塔（城・雪）
+Round Tower (Castle, Snow)|円塔（城・雪）
+Round Tower (Castle's Spire, Ruins)|円塔（城の尖塔・廃墟）
+Round Tower (Castle's Spire, Ruins)|円塔（城の尖塔・廃墟）
+Round Tower (Castle)|円塔（城）
+Round Tower (Castle)|円塔（城）
+Round Tower (Castle, Ruins)|円塔（城・廃墟）
+Round Tower (Castle, Ruins)|円塔（城・廃墟）
+Round Tower (Castle, Snow)|円塔（城・雪）
+Round Tower (Castle, Snow)|円塔（城・雪）
+Round Tower (Castle's Spire, Ruins)|円塔（城の尖塔・廃墟）
+Round Tower (Castle's Spire, Ruins)|円塔（城の尖塔・廃墟）
+Round Tower (Castle)|円塔（城）
+Round Tower (Castle)|円塔（城）
+Round Tower (Castle, Ruins)|円塔（城・廃墟）
+Round Tower (Castle, Ruins)|円塔（城・廃墟）
+Round Tower (Castle, Snow)|円塔（城・雪）
+Round Tower (Castle, Snow)|円塔（城・雪）
+Round Tower (Castle's Spire, Snow)|円塔（城の尖塔・雪）
+Round Tower (Castle's Spire, Snow)|円塔（城の尖塔・雪）
+Round Tower (Green)|円塔（緑）
+Round Tower (Green)|円塔（緑）
+Round Tower (Green, Ruins)|円塔（緑・廃墟）
+Round Tower (Green, Ruins)|円塔（緑・廃墟）
+Round Tower (Green, Snow)|円塔（緑・雪）
+Round Tower (Green, Snow)|円塔（緑・雪）
+Round Tower (Castle's Spire, Snow)|円塔（城の尖塔・雪）
+Round Tower (Castle's Spire, Snow)|円塔（城の尖塔・雪）
+Round Tower (Green)|円塔（緑）
+Round Tower (Green)|円塔（緑）
+Round Tower (Green, Ruins)|円塔（緑・廃墟）
+Round Tower (Green, Ruins)|円塔（緑・廃墟）
+Round Tower (Green, Snow)|円塔（緑・雪）
+Round Tower (Green, Snow)|円塔（緑・雪）
+Round Tower (Castle's Spire, Snow)|円塔（城の尖塔・雪）
+Round Tower (Castle's Spire, Snow)|円塔（城の尖塔・雪）
+Round Tower (Green)|円塔（緑）
+Round Tower (Green)|円塔（緑）
+Round Tower (Green, Ruins)|円塔（緑・廃墟）
+Round Tower (Green, Ruins)|円塔（緑・廃墟）
+Round Tower (Green, Snow)|円塔（緑・雪）
+Round Tower (Green, Snow)|円塔（緑・雪）
+NONE
+NONE
+Round Tower (Green)|円塔（緑）
+Round Tower (Green)|円塔（緑）
+Round Tower (Green, Ruins)|円塔（緑・廃墟）
+Round Tower (Green, Ruins)|円塔（緑・廃墟）
+Round Tower (Green, Snow)|円塔（緑・雪）
+Round Tower (Green, Snow)|円塔（緑・雪）
+NONE
+NONE
+Round Tower (Green)|円塔（緑）
+Round Tower (Green)|円塔（緑）
+Round Tower (Green, Ruins)|円塔（緑・廃墟）
+Round Tower (Green, Ruins)|円塔（緑・廃墟）
+Round Tower (Green, Snow)|円塔（緑・雪）
+Round Tower (Green, Snow)|円塔（緑・雪）
+NONE
+NONE
+Round Tower (Green)|円塔（緑）
+Round Tower (Green)|円塔（緑）
+Round Tower (Green, Ruins)|円塔（緑・廃墟）
+Round Tower (Green, Ruins)|円塔（緑・廃墟）
+Round Tower (Green, Snow)|円塔（緑・雪）
+Round Tower (Green, Snow)|円塔（緑・雪）
+NONE
+NONE
+Round Tower (Green)|円塔（緑）
+Round Tower (Green)|円塔（緑）
+Round Tower (Green, Ruins)|円塔（緑・廃墟）
+Round Tower (Green, Ruins)|円塔（緑・廃墟）
+Round Tower (Green, Snow)|円塔（緑・雪）
+Round Tower (Green, Snow)|円塔（緑・雪）
+NONE
+NONE
+Round Tower (Green)|円塔（緑）
+Round Tower (Green)|円塔（緑）
+Round Tower (Green, Ruins)|円塔（緑・廃墟）
+Round Tower (Green, Ruins)|円塔（緑・廃墟）
+Round Tower (Green, Snow)|円塔（緑・雪）
+Round Tower (Green, Snow)|円塔（緑・雪）
+NONE
+NONE
+Round Tower (Fort)|円塔（砦）
+Round Tower (Fort)|円塔（砦）
+Round Tower (Fort, Ruins)|円塔（砦・廃墟）
+Round Tower (Fort, Ruins)|円塔（砦・廃墟）
+Round Tower (Fort, Snow)|円塔（砦・雪）
+Round Tower (Fort, Snow)|円塔（砦・雪）
+Round Tower (Fort)|円塔（砦）
+Round Tower (Fort)|円塔（砦）
+Round Tower (Fort)|円塔（砦）
+Round Tower (Fort)|円塔（砦）
+Round Tower (Fort, Ruins)|円塔（砦・廃墟）
+Round Tower (Fort, Ruins)|円塔（砦・廃墟）
+Round Tower (Fort, Snow)|円塔（砦・雪）
+Round Tower (Fort, Snow)|円塔（砦・雪）
+Round Tower (Fort)|円塔（砦）
+Round Tower (Fort)|円塔（砦）
+Round Tower (Fort)|円塔（砦）
+Round Tower (Fort)|円塔（砦）
+Round Tower (Fort, Ruins)|円塔（砦・廃墟）
+Round Tower (Fort, Ruins)|円塔（砦・廃墟）
+Round Tower (Fort, Snow)|円塔（砦・雪）
+Round Tower (Fort, Snow)|円塔（砦・雪）
+Round Tower (Fort, Ruins)|円塔（砦・廃墟）
+Round Tower (Fort, Ruins)|円塔（砦・廃墟）
+Round Tower (Fort)|円塔（砦）
+Round Tower (Fort)|円塔（砦）
+Round Tower (Fort, Ruins)|円塔（砦・廃墟）
+Round Tower (Fort, Ruins)|円塔（砦・廃墟）
+Round Tower (Fort, Snow)|円塔（砦・雪）
+Round Tower (Fort, Snow)|円塔（砦・雪）
+Round Tower (Fort, Ruins)|円塔（砦・廃墟）
+Round Tower (Fort, Ruins)|円塔（砦・廃墟）
+Round Tower (Fort)|円塔（砦）
+Round Tower (Fort)|円塔（砦）
+Round Tower (Fort, Ruins)|円塔（砦・廃墟）
+Round Tower (Fort, Ruins)|円塔（砦・廃墟）
+Round Tower (Fort, Snow)|円塔（砦・雪）
+Round Tower (Fort, Snow)|円塔（砦・雪）
+Round Tower (Fort, Snow)|円塔（砦・雪）
+Round Tower (Fort, Snow)|円塔（砦・雪）
+Round Tower (Fort)|円塔（砦）
+Round Tower (Fort)|円塔（砦）
+Round Tower (Fort, Ruins)|円塔（砦・廃墟）
+Round Tower (Fort, Ruins)|円塔（砦・廃墟）
+Round Tower (Fort, Snow)|円塔（砦・雪）
+Round Tower (Fort, Snow)|円塔（砦・雪）
+Round Tower (Fort, Snow)|円塔（砦・雪）
+Round Tower (Fort, Snow)|円塔（砦・雪）
+Stone Pillar|石の柱
+Stone Pillar (Ruins)|石の柱(廃墟)
+Stone Pillar (Snow)|石の柱(雪)
+Stone Pillar|石の柱
+Stone Pillar (Ruins)|石の柱(廃墟)
+Stone Pillar (Snow)|石の柱(雪)
+Stone Pillar (Ruins)|石の柱(廃墟)
+Stone Pillar|石の柱
+Stone Pillar|石の柱
+Stone Pillar (Ruins)|石の柱(廃墟)
+Stone Pillar (Snow)|石の柱(雪)
+Stone Pillar|石の柱
+Stone Pillar (Ruins)|石の柱(廃墟)
+Stone Pillar (Snow)|石の柱(雪)
+Stone Pillar (Ruins)|石の柱(廃墟)
+Stone Pillar|石の柱
+Stone Pillar|石の柱
+Stone Pillar (Ruins)|石の柱(廃墟)
+Stone Pillar (Snow)|石の柱(雪)
+Stone Pillar|石の柱
+Stone Pillar (Ruins)|石の柱(廃墟)
+Stone Pillar (Snow)|石の柱(雪)
+Stone Pillar (Ruins)|石の柱(廃墟)
+Stone Pillar|石の柱
+Green Stone Pillar|緑石の柱
+Green Stone Pillar (Ruins)|緑石の柱(廃墟)
+Stone Pillar (Ruins)|石の柱(廃墟)
+Fence|柵
+Statue|像
+Fence|柵
+Stone Pillar (Ruins)|石の柱(廃墟)
+Stone Pillar|石の柱
+Green Stone Pillar|緑石の柱
+Green Stone Pillar (Ruins)|緑石の柱(廃墟)
+Stone Pillar (Ruins)|石の柱(廃墟)
+Fence|柵
+Statue|像
+Fence|柵
+Stone Pillar (Snow)|石の柱(雪)
+Stone Pillar|石の柱
+Green Stone Pillar|緑石の柱
+Green Stone Pillar (Ruins)|緑石の柱(廃墟)
+Stone Pillar (Ruins)|石の柱(廃墟)
+Fence|柵
+NONE
+Fence|柵
+Stone Pillar (Snow)|石の柱(雪)
+Stone Pillar|石の柱
+Green Stone Pillar|緑石の柱
+Green Stone Pillar (Ruins)|緑石の柱(廃墟)
+Stone Pillar (Ruins)|石の柱(廃墟)
+Fence|柵
+Fence|柵
+Fence|柵
+Stone Pillar (Snow)|石の柱(雪)
+Stone Pillar|石の柱
+Fence (Ruins)|柵(廃墟)
+Statue (Ruins)|像(廃墟)
+Fence (Ruins)|柵(廃墟)
+Fence (Snow)|柵(雪)
+Statue (Snow)|像(雪)
+Fence (Snow)|柵(雪)
+Stone Pillar (Ruins)|石の柱(廃墟)
+Stone Pillar|石の柱
+Fence (Ruins)|柵(廃墟)
+Statue (Ruins)|像(廃墟)
+Fence (Ruins)|柵(廃墟)
+Fence (Snow)|柵(雪)
+Statue (Snow)|像(雪)
+Fence (Snow)|柵(雪)
+Stone Pillar (Snow)|石の柱(雪)
+Stone Pillar (Snow)|石の柱(雪)
+Fence (Ruins)|柵(廃墟)
+NONE
+Fence (Ruins)|柵(廃墟)
+Fence (Snow)|柵(雪)
+NONE
+Fence (Snow)|柵(雪)
+Stone Pillar (Snow)|石の柱(雪)
+Stone Pillar (Snow)|石の柱(雪)
+Fence (Ruins)|柵(廃墟)
+Fence (Ruins)|柵(廃墟)
+Fence (Ruins)|柵(廃墟)
+Fence (Snow)|柵(雪)
+Fence (Snow)|柵(雪)
+Fence (Snow)|柵(雪)
+Stone Pillar (Snow)|石の柱(雪)
+Stone Pillar (Snow)|石の柱(雪)
+
