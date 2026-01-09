@@ -30,6 +30,7 @@ class IconSetEditor {
         this.selectedSpace = null; // { row, col }
         this.copiedIcon = null; // dataURL of copied icon
         this.iconOffsets = {}; // Track pixel offsets for each icon: "row,col" -> {x, y}
+        this.imageCache = {}; // Cache loaded Image objects: "row,col" -> Image
 
         this.initializeGrid();
         this.setupEventListeners();
@@ -38,6 +39,7 @@ class IconSetEditor {
 
     initializeGrid() {
         this.iconGrid = [];
+        this.imageCache = {}; // Clear image cache when grid is reset
         for (let row = 0; row < this.ROWS; row++) {
             this.iconGrid[row] = [];
             for (let col = 0; col < this.COLUMNS; col++) {
@@ -842,27 +844,49 @@ class IconSetEditor {
         for (let row = 0; row < this.ROWS; row++) {
             for (let col = 0; col < this.COLUMNS; col++) {
                 if (this.iconGrid[row][col]) {
-                    const img = new Image();
-                    img.onload = () => {
-                        const key = `${row},${col}`;
+                    const key = `${row},${col}`;
+                    let img = this.imageCache[key];
+                    
+                    // If image not cached, load it
+                    if (!img) {
+                        img = new Image();
+                        img.onload = () => {
+                            // Redraw just this tile
+                            const offset = this.iconOffsets[key] || { x: 0, y: 0 };
+                            this.ctx.drawImage(img, col * this.ICON_SIZE + offset.x, row * this.ICON_SIZE + offset.y, this.ICON_SIZE, this.ICON_SIZE);
+                        };
+                        img.src = this.iconGrid[row][col];
+                        this.imageCache[key] = img;
+                    } else if (img.complete) {
+                        // Image is already loaded, draw it synchronously
                         const offset = this.iconOffsets[key] || { x: 0, y: 0 };
                         this.ctx.drawImage(img, col * this.ICON_SIZE + offset.x, row * this.ICON_SIZE + offset.y, this.ICON_SIZE, this.ICON_SIZE);
-                    };
-                    img.src = this.iconGrid[row][col];
+                    }
                 }
             }
         }
 
-        // Draw selection highlight if a space is selected
+        // Draw selection highlight on top (after a brief delay to ensure images have loaded)
         if (this.selectedSpace) {
-            this.ctx.strokeStyle = '#ff6b6b';
-            this.ctx.lineWidth = 3;
-            this.ctx.strokeRect(
-                this.selectedSpace.col * this.ICON_SIZE,
-                this.selectedSpace.row * this.ICON_SIZE,
-                this.ICON_SIZE,
-                this.ICON_SIZE
-            );
+            setTimeout(() => {
+                const x = this.selectedSpace.col * this.ICON_SIZE;
+                const y = this.selectedSpace.row * this.ICON_SIZE;
+                
+                // Draw shadow/glow effect
+                this.ctx.shadowColor = 'rgba(0, 0, 0, 0.8)';
+                this.ctx.shadowBlur = 8;
+                this.ctx.shadowOffsetX = 2;
+                this.ctx.shadowOffsetY = 2;
+                
+                // Draw bright border
+                this.ctx.strokeStyle = '#00ff00';
+                this.ctx.lineWidth = 5;
+                this.ctx.strokeRect(x, y, this.ICON_SIZE, this.ICON_SIZE);
+                
+                // Reset shadow
+                this.ctx.shadowColor = 'transparent';
+                this.ctx.shadowBlur = 0;
+            }, 10);
         }
 
         this.updateCanvasScaling();
