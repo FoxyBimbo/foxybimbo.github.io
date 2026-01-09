@@ -1,0 +1,348 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+}
+
+header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin-bottom: 8px;
+}
+
+header .subtitle {
+    font-size: 0.95em;
+    opacity: 0.9;
+}
+
+.main-layout {
+    display: grid;
+    grid-template-columns: 250px 1fr;
+    gap: 0;
+}
+
+.toolbar {
+    background: #f5f5f5;
+    padding: 20px;
+    border-right: 1px solid #e0e0e0;
+    overflow-y: auto;
+    max-height: 100vh;
+}
+
+.toolbar h3 {
+    font-size: 1em;
+    margin-top: 20px;
+    margin-bottom: 12px;
+    color: #333;
+    font-weight: 600;
+}
+
+.toolbar h3:first-child {
+    margin-top: 0;
+}
+
+.button-group {
+    margin-bottom: 20px;
+}
+
+.btn {
+    display: block;
+    width: 100%;
+    padding: 10px 12px;
+    margin-bottom: 8px;
+    border: none;
+    border-radius: 6px;
+    font-size: 0.9em;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.btn:active {
+    transform: translateY(0);
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+.btn-primary:hover {
+    opacity: 0.9;
+}
+
+.btn-secondary {
+    background: #e0e0e0;
+    color: #333;
+}
+
+.btn-secondary:hover {
+    background: #d0d0d0;
+}
+
+.info-section {
+    background: white;
+    padding: 12px;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+
+.info-section h3 {
+    margin-top: 0;
+    font-size: 0.9em;
+}
+
+.info-section p {
+    font-size: 0.85em;
+    color: #666;
+    line-height: 1.5;
+}
+
+.canvas-area {
+    display: flex;
+    gap: 20px;
+    padding: 30px;
+    overflow-x: auto;
+    overflow-y: auto;
+    background: #fafafa;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+}
+
+.editor-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    flex-shrink: 0;
+}
+
+.editor-section h3 {
+    margin-bottom: 15px;
+    color: #333;
+}
+
+canvas {
+    border: 2px solid #ddd;
+    background: white;
+    cursor: crosshair;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+}
+
+#mainCanvas {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+#importCanvas {
+    opacity: 0.9;
+}
+
+.import-preview {
+    flex: 1;
+}
+
+.import-preview.hidden {
+    display: none;
+}
+
+.help-text {
+    margin-top: 12px;
+    font-size: 0.85em;
+    color: #999;
+    text-align: center;
+    max-width: 300px;
+}
+
+/* Modal Styles */
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+.modal.hidden {
+    display: none;
+}
+
+.modal-content {
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+    max-width: 400px;
+    width: 90%;
+}
+
+.modal-content h2 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.modal-content label {
+    display: block;
+    margin-bottom: 10px;
+    color: #666;
+    font-weight: 500;
+}
+
+.modal-content input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 1em;
+    margin-bottom: 20px;
+}
+
+.modal-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.modal-buttons .btn {
+    flex: 1;
+    margin-bottom: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .main-layout {
+        grid-template-columns: 200px 1fr;
+    }
+
+    .canvas-area {
+        flex-direction: column;
+        padding: 15px;
+    }
+
+    header h1 {
+        font-size: 1.8em;
+    }
+}
+
+@media (max-width: 768px) {
+    .main-layout {
+        grid-template-columns: 1fr;
+    }
+
+    .toolbar {
+        border-right: none;
+        border-bottom: 1px solid #e0e0e0;
+    }
+
+    header h1 {
+        font-size: 1.5em;
+    }
+
+    canvas {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+/* Drag and drop styling */
+canvas.drag-over {
+    background: #f0f8ff;
+    border-color: #667eea;
+}
+
+/* Mode selection buttons */
+.mode-buttons {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin-bottom: 20px;
+}
+
+.mode-btn {
+    padding: 20px;
+    border: 2px solid #ddd;
+    background: #f9f9f9;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.mode-btn:hover {
+    border-color: #667eea;
+    background: #f0f8ff;
+}
+
+.mode-btn strong {
+    font-size: 1em;
+    color: #333;
+}
+
+.mode-btn small {
+    font-size: 0.75em;
+    color: #999;
+    text-align: center;
+}
+
+/* Canvas wrapper for scaling */
+.canvas-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.canvas-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Selected icon highlight */
+canvas.icon-selected::after {
+    content: '';
+}
+
+@media (max-width: 768px) {
+    .mode-buttons {
+        grid-template-columns: 1fr;
+    }
+}

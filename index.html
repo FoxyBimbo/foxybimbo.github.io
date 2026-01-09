@@ -1,16 +1,96 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-        <meta name="viewport" content="user-scalable=no">
-        <link rel="icon" href="icon/icon.png" type="image/png">
-        <link rel="apple-touch-icon" href="icon/icon.png">
-        <link rel="stylesheet" type="text/css" href="css/game.css">
-        <title>Echocondria Dungeons</title>
-    </head>
-    <body style="background-color: black">
-        <script type="text/javascript" src="js/main.js"></script>
-    </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tile Forge</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Tile Forge</h1>
+            <p class="subtitle">512x512 pixels | 32x32 pixel icons | 16x16 default grid</p>
+        </header>
+
+        <div class="main-layout">
+            <!-- Toolbar -->
+            <div class="toolbar">
+                <div class="button-group">
+                    <h3>File Operations</h3>
+                    <button id="newDocBtn" class="btn btn-primary">New Document</button>
+                    <input type="file" id="uploadImageInput" accept="image/*" hidden>
+                    <button id="uploadBtn" class="btn btn-secondary">Upload Image</button>
+                </div>
+
+                <div class="button-group">
+                    <h3>Management</h3>
+                    <button id="importSetBtn" class="btn btn-secondary">Import</button>
+                    <input type="file" id="importImageInput" accept="image/*" hidden>
+                    <button id="addRowsBtn" class="btn btn-secondary">Add Rows</button>
+                    <button id="reparseBtn" class="btn btn-secondary">ReParse</button>
+                </div>
+
+                <div class="button-group">
+                    <h3>Export</h3>
+                    <button id="saveBtn" class="btn btn-primary">Save As</button>
+                </div>
+
+                <div class="info-section">
+                    <h3>Grid Info</h3>
+                    <p id="gridInfo">Columns: 16 | Rows: 16 | Size: 512x512</p>
+                </div>
+            </div>
+
+            <!-- Canvas Area -->
+            <div class="canvas-area">
+                <div class="editor-section">
+                    <h3>Icon Set Document</h3>
+                    <canvas id="mainCanvas" width="512" height="512"></canvas>
+                </div>
+
+                <!-- Import Preview Area -->
+                <div id="importPreview" class="editor-section import-preview hidden">
+                    <h3>Import Source (Drag icons to document)</h3>
+                    <canvas id="importCanvas" width="512" height="512"></canvas>
+                    <p class="help-text">Drag icons from this preview to your main document</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for selecting mode -->
+    <div id="modeModal" class="modal hidden">
+        <div class="modal-content">
+            <h2>Create New Document</h2>
+            <p>Select a document mode:</p>
+            <div class="mode-buttons">
+                <button id="iconSetModeBtn" class="mode-btn">
+                    <strong>Icon Set Mode</strong>
+                    <small>512x512 pixels | 32x32 icons | 16x16 grid</small>
+                </button>
+                <button id="tileSetModeBtn" class="mode-btn">
+                    <strong>Tile Set Mode</strong>
+                    <small>768x768 pixels | 48x48 icons | 16x16 grid</small>
+                </button>
+            </div>
+            <button id="cancelModeBtn" class="btn btn-secondary" style="width: 100%; margin-top: 15px;">Cancel</button>
+        </div>
+    </div>
+
+    <!-- Modal for adding rows -->
+    <div id="rowsModal" class="modal hidden">
+        <div class="modal-content">
+            <h2>Add Rows</h2>
+            <label for="rowsInput">Number of rows to add:</label>
+            <input type="number" id="rowsInput" min="1" max="32" value="1">
+            <div class="modal-buttons">
+                <button id="confirmRowsBtn" class="btn btn-primary">Add Rows</button>
+                <button id="cancelRowsBtn" class="btn btn-secondary">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
 </html>
