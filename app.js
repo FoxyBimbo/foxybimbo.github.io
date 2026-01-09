@@ -31,6 +31,9 @@ class IconSetEditor {
         this.copiedIcon = null; // dataURL of copied icon
         this.iconOffsets = {}; // Track pixel offsets for each icon: "row,col" -> {x, y}
         this.imageCache = {}; // Cache loaded Image objects: "row,col" -> Image
+        
+        // Import canvas mouse tracking
+        this.importCanvasMouseDownSpace = null; // Track which space was clicked on mouse down
 
         this.initializeGrid();
         this.setupEventListeners();
@@ -89,7 +92,8 @@ class IconSetEditor {
         document.addEventListener('keydown', (e) => this.handleKeyDown(e));
 
         // Import canvas interactions - multiple selection and drag
-        this.importCanvas.addEventListener('click', (e) => this.handleImportCanvasClick(e));
+        this.importCanvas.addEventListener('mousedown', (e) => this.handleImportCanvasMouseDown(e));
+        this.importCanvas.addEventListener('mouseup', (e) => this.handleImportCanvasMouseUp(e));
         this.importCanvas.addEventListener('dragstart', (e) => this.startDragIcon(e));
         this.importCanvas.draggable = true;
         
@@ -262,6 +266,62 @@ class IconSetEditor {
         reader.readAsDataURL(file);
 
         document.getElementById('importImageInput').value = '';
+    }
+
+    handleImportCanvasMouseDown(e) {
+        if (!this.importedImage) return;
+        
+        // Don't select if we're dragging
+        if (e.buttons === 1 && this.draggedIcons.length > 0) return;
+
+        const rect = this.importCanvas.getBoundingClientRect();
+        const scaledX = (e.clientX - rect.left) / this.importCanvasScale;
+        const scaledY = (e.clientY - rect.top) / this.importCanvasScale;
+
+        const offset = this.importImageOffset || { x: 0, y: 0, scale: 1 };
+        const imageX = (scaledX - offset.x) / offset.scale;
+        const imageY = (scaledY - offset.y) / offset.scale;
+
+        const col = Math.floor(imageX / this.ICON_SIZE);
+        const row = Math.floor(imageY / this.ICON_SIZE);
+
+        if (row >= 0 && col >= 0 && row * this.ICON_SIZE < this.importedImage.height && col * this.ICON_SIZE < this.importedImage.width) {
+            this.importCanvasMouseDownSpace = { row, col };
+        } else {
+            this.importCanvasMouseDownSpace = null;
+        }
+    }
+
+    handleImportCanvasMouseUp(e) {
+        if (!this.importedImage || !this.importCanvasMouseDownSpace) return;
+        
+        const rect = this.importCanvas.getBoundingClientRect();
+        const scaledX = (e.clientX - rect.left) / this.importCanvasScale;
+        const scaledY = (e.clientY - rect.top) / this.importCanvasScale;
+
+        const offset = this.importImageOffset || { x: 0, y: 0, scale: 1 };
+        const imageX = (scaledX - offset.x) / offset.scale;
+        const imageY = (scaledY - offset.y) / offset.scale;
+
+        const col = Math.floor(imageX / this.ICON_SIZE);
+        const row = Math.floor(imageY / this.ICON_SIZE);
+
+        // Only toggle selection if mouse up is over the same space as mouse down
+        if (row === this.importCanvasMouseDownSpace.row && col === this.importCanvasMouseDownSpace.col) {
+            const iconKey = `${row},${col}`;
+            if (this.selectedImportIcons.has(iconKey)) {
+                this.selectedImportIcons.delete(iconKey);
+            } else {
+                if (!e.ctrlKey && !e.metaKey) {
+                    this.selectedImportIcons.clear();
+                }
+                this.selectedImportIcons.add(iconKey);
+            }
+            console.log('Selected icons:', Array.from(this.selectedImportIcons));
+            this.renderImportCanvas();
+        }
+        
+        this.importCanvasMouseDownSpace = null;
     }
 
     handleImportCanvasClick(e) {
@@ -529,10 +589,13 @@ class IconSetEditor {
             // Paste to selected space
             e.preventDefault();
             if (this.selectedSpace && this.copiedIcon) {
-                this.iconGrid[this.selectedSpace.row][this.selectedSpace.col] = this.copiedIcon;
-                // Clear offset for pasted icon
+                // Clear the current image and cache entry in that space
                 const key = `${this.selectedSpace.row},${this.selectedSpace.col}`;
+                delete this.imageCache[key];
                 delete this.iconOffsets[key];
+                
+                // Paste the new icon
+                this.iconGrid[this.selectedSpace.row][this.selectedSpace.col] = this.copiedIcon;
                 this.render();
                 console.log('Icon pasted');
             }
@@ -642,6 +705,12 @@ class IconSetEditor {
             x, y, this.ICON_SIZE, this.ICON_SIZE,
             0, 0, this.ICON_SIZE, this.ICON_SIZE
         );
+        
+        // Clear the old image and cache entry at the target location
+        const targetKey = `${targetRow},${targetCol}`;
+        delete this.imageCache[targetKey];
+        delete this.iconOffsets[targetKey];
+        
         this.iconGrid[targetRow][targetCol] = tempCanvas.toDataURL('image/png');
     }
 
@@ -893,6 +962,10 @@ class IconSetEditor {
     }
 
     save() {
+        // Prompt for filename
+        const fileName = prompt('Enter file name:', 'TileSet.png');
+        if (!fileName) return; // User cancelled
+        
         // Create a canvas for export (transparent background)
         const exportCanvas = document.createElement('canvas');
         exportCanvas.width = this.canvas.width;
@@ -922,7 +995,7 @@ class IconSetEditor {
         setTimeout(() => {
             const link = document.createElement('a');
             link.href = exportCanvas.toDataURL('image/png');
-            link.download = 'IconSet.png';
+            link.download = fileName;
             link.click();
         }, 500);
     }
