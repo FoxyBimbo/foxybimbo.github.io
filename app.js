@@ -39,6 +39,9 @@ class IconSetEditor {
         // Import canvas mouse tracking
         this.importCanvasMouseDownSpace = null; // Track which space was clicked on mouse down
 
+        // Uploaded image file name
+        this.uploadedFileName = null;
+
         this.initializeGrid();
         this.setupEventListeners();
         this.render();
@@ -120,6 +123,10 @@ class IconSetEditor {
         const file = e.target.files[0];
         if (!file) return;
 
+        // Extract the file name (without extension for use as base name)
+        const lastDotIndex = file.name.lastIndexOf('.');
+        const fileName = lastDotIndex > -1 ? file.name.substring(0, lastDotIndex) : file.name;
+
         const reader = new FileReader();
         reader.onload = (event) => {
             const img = new Image();
@@ -142,6 +149,9 @@ class IconSetEditor {
                 if (this.mode !== detectedMode) {
                     this.createNewDocument(detectedMode);
                 }
+
+                // Restore the uploaded file name after mode switch (in case createNewDocument cleared it)
+                this.uploadedFileName = fileName;
 
                 // Clear the current document first
                 this.selectedImportIcons.clear();
@@ -1290,6 +1300,7 @@ class IconSetEditor {
 
         this.mode = mode;
         this.selectedImportIcons.clear();
+        this.uploadedFileName = null; // Clear uploaded file name when creating new document
 
         if (mode === 'tileset') {
             this.ICON_SIZE = 48;
@@ -1437,8 +1448,14 @@ class IconSetEditor {
     }
 
     save() {
+        // Use uploaded file name if available, otherwise use default
+        let defaultName = 'TileSet.png';
+        if (this.uploadedFileName) {
+            defaultName = this.uploadedFileName + '.png';
+        }
+        
         // Prompt for filename
-        const fileName = prompt('Enter file name:', 'TileSet.png');
+        const fileName = prompt('Enter file name:', defaultName);
         if (!fileName) return; // User cancelled
         
         // Create a canvas for export (transparent background)
