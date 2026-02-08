@@ -1,4 +1,4 @@
-Tile Forge
+Tile Forge v 0.0.3
 
 
 
@@ -20,3 +20,6 @@ Features
 * Tall Items document type that stores a 3x4 grid of 48x96 pixel tiles for tall events
 * Big Items document type that stores a 3x4 grid of 96x96 pixel tiles meant for tall and wide events (like bookshelves)
 * ReParse your active document, so if you use the arrow keys to move a tile into another space it will treat it as parsing a new image. This is helpful when you're moving an object that takes up two spaces but can be fit into one space. After nudging them with the arrow keys into one space together. ReParse and it will treat it as a one tile in that space now
+* Added a Pixel Select under Color settings. This allows you to select what specific pixels you want to 
+move or recolor
+* Added a mode to select what size your grid and tile sets are from preselected to custom
