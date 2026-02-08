@@ -23,6 +23,102 @@
                     <button id="uploadBtn" class="btn btn-secondary">Upload Image</button>
                 </div>
 
+                <div class="settings-section">
+                    <div class="settings-header" id="gridSettingsHeader">
+                        <h3>Grid Settings</h3>
+                        <button id="toggleGridSettingsBtn" class="toggle-btn collapsed">▼</button>
+                    </div>
+                    <div id="gridSettingsContent" class="settings-content hidden">
+                        <div class="grid-setting-control">
+                            <label for="gridModeSelect">Mode</label>
+                            <select id="gridModeSelect" class="settings-select">
+                                <option value="iconset">Icon Set (32×32, 16×16)</option>
+                                <option value="tileset">Tile Set (48×48, 16×16)</option>
+                                <option value="smallitems">Small Items (48×48, 3×4)</option>
+                                <option value="tallitems">Tall Items (48×96, 3×4)</option>
+                                <option value="bigitems">Big Items (96×96, 3×4)</option>
+                                <option value="custom">Custom</option>
+                            </select>
+                        </div>
+                        <div class="grid-setting-control">
+                            <label for="tileWidthInput">Tile Width (px)</label>
+                            <input type="number" id="tileWidthInput" min="8" max="256" value="32" class="settings-input">
+                        </div>
+                        <div class="grid-setting-control">
+                            <label for="tileHeightInput">Tile Height (px)</label>
+                            <input type="number" id="tileHeightInput" min="8" max="256" value="32" class="settings-input">
+                        </div>
+                        <div class="grid-setting-control">
+                            <label for="gridColumnsInput">Columns</label>
+                            <input type="number" id="gridColumnsInput" min="1" max="64" value="16" class="settings-input">
+                        </div>
+                        <div class="grid-setting-control">
+                            <label for="gridRowsInput">Rows</label>
+                            <input type="number" id="gridRowsInput" min="1" max="64" value="16" class="settings-input">
+                        </div>
+                        <button id="applyGridSettingsBtn" class="btn btn-primary" style="margin-top: 8px; font-size: 0.9em;">Apply</button>
+                        <p id="gridSettingsInfo" style="font-size: 0.8em; color: #999; margin-top: 6px; text-align: center;">Canvas: 512×512 px</p>
+                    </div>
+                </div>
+
+                <div class="settings-section">
+                    <div class="settings-header">
+                        <h3>Color Settings</h3>
+                        <button id="toggleSettingsBtn" class="toggle-btn collapsed">▼</button>
+                    </div>
+                    <div id="settingsContent" class="settings-content hidden">
+                        <p style="font-size: 0.85em; color: #666; margin-bottom: 12px;">Select a tile to adjust colors</p>
+                        
+                        <div class="color-control">
+                            <label for="redSlider">Red</label>
+                            <div class="slider-container">
+                                <input type="range" id="redSlider" min="-100" max="100" value="0" class="hue-slider">
+                                <span id="redValue">0</span>
+                            </div>
+                        </div>
+
+                        <div class="color-control">
+                            <label for="greenSlider">Green</label>
+                            <div class="slider-container">
+                                <input type="range" id="greenSlider" min="-100" max="100" value="0" class="hue-slider">
+                                <span id="greenValue">0</span>
+                            </div>
+                        </div>
+
+                        <div class="color-control">
+                            <label for="blueSlider">Blue</label>
+                            <div class="slider-container">
+                                <input type="range" id="blueSlider" min="-100" max="100" value="0" class="hue-slider">
+                                <span id="blueValue">0</span>
+                            </div>
+                        </div>
+
+                        <div class="color-control">
+                            <label for="alphaSlider">Transparency</label>
+                            <div class="slider-container">
+                                <input type="range" id="alphaSlider" min="0" max="100" value="100" class="hue-slider">
+                                <span id="alphaValue">100%</span>
+                            </div>
+                        </div>
+
+                        <div class="color-control">
+                            <label for="toleranceSlider">Color Match Tolerance</label>
+                            <div class="slider-container">
+                                <input type="range" id="toleranceSlider" min="0" max="50" value="5" class="hue-slider">
+                                <span id="toleranceValue">5</span>
+                            </div>
+                        </div>
+
+                        <button id="colorDropperBtn" class="btn btn-secondary" style="margin-top: 12px; font-size: 0.9em;">Color Dropper</button>
+                        <button id="clearColorBtn" class="btn btn-secondary" style="font-size: 0.9em;">Clear Color</button>
+                        <button id="pixelSelectBtn" class="btn btn-secondary" style="margin-top: 12px; font-size: 0.9em;">Pixel Select</button>
+                        <button id="clearPixelSelectBtn" class="btn btn-secondary" style="font-size: 0.9em;">Clear Pixel Selection</button>
+                        <p id="pixelSelectInfo" style="font-size: 0.8em; color: #999; margin-top: 4px; text-align: center;">No pixels selected</p>
+                        <button id="saveRecoloringBtn" class="btn btn-primary" style="margin-top: 12px; font-size: 0.9em;">Save ReColoring</button>
+                        <p id="selectedColorInfo" style="font-size: 0.8em; color: #999; margin-top: 8px; text-align: center;">No color selected - adjusting whole image</p>
+                    </div>
+                </div>
+
                 <div class="button-group">
                     <h3>Management</h3>
                     <button id="importSetBtn" class="btn btn-secondary">Import</button>
@@ -99,6 +195,40 @@
             <div class="modal-buttons">
                 <button id="confirmRowsBtn" class="btn btn-primary">Add Rows</button>
                 <button id="cancelRowsBtn" class="btn btn-secondary">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for color dropper -->
+    <div id="colorDropperModal" class="modal hidden">
+        <div class="modal-content" style="max-width: 600px;">
+            <h2>Select Color from Tile</h2>
+            <p style="margin-bottom: 15px; color: #666;">Click on a color in the enlarged tile preview</p>
+            <canvas id="tilePreviewCanvas" style="width: 100%; max-height: 400px; image-rendering: pixelated; image-rendering: crisp-edges; border: 2px solid #ddd; cursor: crosshair; display: block; margin: 0 auto;"></canvas>
+            <div style="margin-top: 15px; text-align: center;">
+                <p id="colorPickerStatus" style="font-size: 0.9em; color: #666;">Ready to select color</p>
+            </div>
+            <button id="cancelColorPickerBtn" class="btn btn-secondary" style="width: 100%; margin-top: 15px;">Cancel</button>
+        </div>
+    </div>
+
+    <!-- Modal for pixel selection -->
+    <div id="pixelSelectModal" class="modal hidden">
+        <div class="modal-content" style="max-width: 600px;">
+            <h2>Select Pixels</h2>
+            <p style="margin-bottom: 10px; color: #666;">Click or drag to select pixels. Click selected pixels to deselect.</p>
+            <div style="margin-bottom: 10px; display: flex; gap: 8px; align-items: center;">
+                <button id="pixelSelectAllBtn" class="btn btn-secondary" style="flex: 1; font-size: 0.85em;">Select All</button>
+                <button id="pixelInvertBtn" class="btn btn-secondary" style="flex: 1; font-size: 0.85em;">Invert</button>
+                <button id="pixelDeselectAllBtn" class="btn btn-secondary" style="flex: 1; font-size: 0.85em;">Deselect All</button>
+            </div>
+            <canvas id="pixelSelectCanvas" style="width: 100%; max-height: 500px; image-rendering: pixelated; image-rendering: crisp-edges; border: 2px solid #ddd; cursor: crosshair; display: block; margin: 0 auto;"></canvas>
+            <div style="margin-top: 10px; text-align: center;">
+                <p id="pixelSelectStatus" style="font-size: 0.9em; color: #666;">0 pixels selected</p>
+            </div>
+            <div style="display: flex; gap: 10px; margin-top: 15px;">
+                <button id="confirmPixelSelectBtn" class="btn btn-primary" style="flex: 1;">Confirm</button>
+                <button id="cancelPixelSelectBtn" class="btn btn-secondary" style="flex: 1;">Cancel</button>
             </div>
         </div>
     </div>
