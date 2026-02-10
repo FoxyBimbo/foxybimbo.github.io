@@ -7,13 +7,25 @@
     <title>Echocondria Tools - Dice Roller</title>
     <!-- Bootstrap CSS (via CDN) -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="nav.css">
 </head>
 
 <body>
 
     <!-- Navigation Bar -->
-    <div id="navbar"></div>
-
+    <nav class="site-nav">
+        <a href="index.html" class="nav-brand">Echocondria Tools</a>
+        <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')">&#9776;</button>
+        <ul class="nav-links">
+            <li><a href="index.html">Tile Forge</a></li>
+            <li><a href="npcs.html">NPCs</a></li>
+            <li><a href="mundane.html">Mundane Items</a></li>
+            <li><a href="adjectives.html">Adjectives</a></li>
+            <li><a href="body-parts.html">Body Parts</a></li>
+            <li><a href="fishing.html">Fishing</a></li>
+            <li><a href="dice.html" class="active">Dice Roller</a></li>
+        </ul>
+    </nav>
 
     <!-- Main Content Container -->
     <div class="container mt-5">

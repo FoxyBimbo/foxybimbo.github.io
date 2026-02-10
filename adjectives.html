@@ -4,30 +4,42 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Echocondria Tools</title>
+  <title>Echocondria Tools - Adjectives</title>
   <!-- Bootstrap CSS (via CDN) -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <!-- DataTables CSS (via CDN) -->
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.22/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="nav.css">
 </head>
 
 <body>
 
   <!-- Navigation Bar -->
-  <div id="navbar"></div>
-
+  <nav class="site-nav">
+    <a href="index.html" class="nav-brand">Echocondria Tools</a>
+    <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')">&#9776;</button>
+    <ul class="nav-links">
+      <li><a href="index.html">Tile Forge</a></li>
+      <li><a href="npcs.html">NPCs</a></li>
+      <li><a href="mundane.html">Mundane Items</a></li>
+      <li><a href="adjectives.html" class="active">Adjectives</a></li>
+      <li><a href="body-parts.html">Body Parts</a></li>
+      <li><a href="fishing.html">Fishing</a></li>
+      <li><a href="dice.html">Dice Roller</a></li>
+    </ul>
+  </nav>
 
   <!-- Main Content Container -->
   <div class="container mt-5">
-    <h1 class="mb-4 w-100">Mundane Items Randomizer</h1>
+    <h1 class="mb-4 w-100">Adjectives Randomizer</h1>
 
     <!-- Button to trigger randomization -->
 
     <div class="w-25 d-inline-block">
-      <label for="count" class="form-label">How many Items</label>
-      <input type="number" class="form-control" id="count" placeholder="How many Items" value="1">
+      <label for="count" class="form-label">How many Adjectives</label>
+      <input type="number" class="form-control" id="count" placeholder="How many Adjectives" value="1">
     </div>
-    <button id="randomizeButton" class="btn btn-primary mb-3 w-25 d-inline-block" style="margin-top:10px;">Get Random Items</button>
+    <button id="randomizeButton" class="btn btn-primary mb-3 w-25 d-inline-block" style="margin-top:10px;">Get Random Adjectives</button>
 
 
     <!-- Container for the table -->

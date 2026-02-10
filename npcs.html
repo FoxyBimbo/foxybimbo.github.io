@@ -4,25 +4,30 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Echocondria Tools</title>
+  <title>Echocondria Tools - NPCs</title>
   <!-- Bootstrap CSS (via CDN) -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <!-- DataTables CSS (via CDN) -->
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.22/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="nav.css">
 </head>
 
 <body>
 
   <!-- Navigation Bar -->
-  <div id="navbar"></div>
-  <script>
-    fetch('navbar.html')
-      .then(response => response.text())
-      .then(data => {
-        document.getElementById('navbar').innerHTML = data;
-      })
-      .catch(error => console.error('Error loading navbar:', error));
-  </script>
+  <nav class="site-nav">
+    <a href="index.html" class="nav-brand">Echocondria Tools</a>
+    <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')">&#9776;</button>
+    <ul class="nav-links">
+      <li><a href="index.html">Tile Forge</a></li>
+      <li><a href="npcs.html" class="active">NPCs</a></li>
+      <li><a href="mundane.html">Mundane Items</a></li>
+      <li><a href="adjectives.html">Adjectives</a></li>
+      <li><a href="body-parts.html">Body Parts</a></li>
+      <li><a href="fishing.html">Fishing</a></li>
+      <li><a href="dice.html">Dice Roller</a></li>
+    </ul>
+  </nav>
 
   <!-- Main Content Container -->
   <div class="container mt-5">

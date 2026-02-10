@@ -4,9 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tile Forge</title>
+    <link rel="stylesheet" href="nav.css">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <nav class="site-nav">
+        <a href="index.html" class="nav-brand">Echocondria Tools</a>
+        <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')">&#9776;</button>
+        <ul class="nav-links">
+            <li><a href="index.html" class="active">Tile Forge</a></li>
+            <li><a href="npcs.html">NPCs</a></li>
+            <li><a href="mundane.html">Mundane Items</a></li>
+            <li><a href="adjectives.html">Adjectives</a></li>
+            <li><a href="body-parts.html">Body Parts</a></li>
+            <li><a href="fishing.html">Fishing</a></li>
+            <li><a href="dice.html">Dice Roller</a></li>
+        </ul>
+    </nav>
     <div class="container">
         <header>
             <h1>Tile Forge</h1>
